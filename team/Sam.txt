@@ -1,2 +1,2 @@
 Name: Sam
-Description: Office Manager
+Description: Concept Artist
