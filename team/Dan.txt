@@ -1,2 +1,2 @@
 Name: Dan
-Description: No description available
+Description: Character Artist
