@@ -1,2 +1,2 @@
 Name: Alex
-Description: Programmer
+Description: Senior Sound Design
