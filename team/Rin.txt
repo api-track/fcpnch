@@ -1,2 +1,2 @@
 Name: Rin
-Description: No description available
+Description: Junior Support
