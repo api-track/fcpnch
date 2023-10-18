@@ -1,2 +1,2 @@
 Name: Vincent
-Description: No description available
+Description: Lead Environment Artist
