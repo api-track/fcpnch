@@ -1,2 +1,2 @@
 Name: Alex
-Description: Lead Animator
+Description: Programmer
