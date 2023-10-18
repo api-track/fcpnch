@@ -1,2 +1,2 @@
 Name: Rick
-Description: No description available
+Description: Weapon Artist
