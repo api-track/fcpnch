@@ -1,2 +1,2 @@
 Name: Jakb
-Description: No description available
+Description: Junior Support & QA
