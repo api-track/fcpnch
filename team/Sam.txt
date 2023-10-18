@@ -1,2 +1,2 @@
 Name: Sam
-Description: Concept Artist
+Description: Programmer
