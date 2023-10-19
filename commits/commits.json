@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Merge from shader-stdblends-extended",
+            "guid": "https://commits.facepunch.com/462877/",
+            "pubDate": "Thu, 19 Oct 2023 17:40:06 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fixed portacabin materials",
             "guid": "https://commits.facepunch.com/462876/",
             "pubDate": "Thu, 19 Oct 2023 17:36:27 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/462828/",
             "pubDate": "Thu, 19 Oct 2023 08:49:05 Z",
             "title": "sbox"
-        },
-        {
-            "description": "Remove the debug gizmo text output in CharacterControllerHelper",
-            "guid": "https://commits.facepunch.com/462827/",
-            "pubDate": "Thu, 19 Oct 2023 08:48:18 Z",
-            "title": "sbox-scenestaging"
         }
     ]
 }
