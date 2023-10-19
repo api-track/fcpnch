@@ -1,0 +1,504 @@
+{
+    "items": [
+        {
+            "guid": "https://commits.facepunch.com/462874/",
+            "link": "https://commits.facepunch.com/462874/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox-scenestaging",
+            "description": "Type selection drop down\nFleshed out type selector, now checks constraints\nPure attribute for some things that should be expression nodes",
+            "pubDate": "Thu, 19 Oct 2023 16:50:35 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T16:50:35Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462873/",
+            "link": "https://commits.facepunch.com/462873/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox",
+            "description": "Some more nodes",
+            "pubDate": "Thu, 19 Oct 2023 16:48:52 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T16:48:52Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462872/",
+            "link": "https://commits.facepunch.com/462872/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Terrain blending now working with Mesh terrain type (e.g. cliff); fully automatic for now but requires MeshTerrainRoot script on hierarchy",
+            "pubDate": "Thu, 19 Oct 2023 16:46:55 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T16:46:55Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462871/",
+            "link": "https://commits.facepunch.com/462871/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "\u2586\u258b\u2584\u2585\u258c & \u2589\u2587\u258a\u258c.  (\u2588\u2588\u2589 \u258b\u2589\u258a\u258a\u258c\u258b\u258b\u2586\u258b\u2584 \u2589\u2585\u258b)",
+            "pubDate": "Thu, 19 Oct 2023 16:30:08 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T16:30:08Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462870/",
+            "link": "https://commits.facepunch.com/462870/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "ActionJigs",
+            "description": null,
+            "pubDate": "Thu, 19 Oct 2023 16:29:03 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T16:29:03Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462869/",
+            "link": "https://commits.facepunch.com/462869/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "ActionJigs",
+            "description": "Include generic parameter in PropertyDefinition",
+            "pubDate": "Thu, 19 Oct 2023 16:29:03 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T16:29:03Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462868/",
+            "link": "https://commits.facepunch.com/462868/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "merge from main",
+            "pubDate": "Thu, 19 Oct 2023 16:08:43 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T16:08:43Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462867/",
+            "link": "https://commits.facepunch.com/462867/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "\u2585\u258a\u2586\u2586 \u2584\u2584\u2589\u2589\u2587.\n\u258d\u2589\u2588\u2584\u2588\u258c\u2585\u2586\u2586 \u258a\u258a\u2586\u2585\u258c \u258b\u2587\u258b\u258b\u258b\u2588.",
+            "pubDate": "Thu, 19 Oct 2023 16:00:54 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T16:00:54Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462866/",
+            "link": "https://commits.facepunch.com/462866/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "more wip placeholder UI and sweetspot detection",
+            "pubDate": "Thu, 19 Oct 2023 15:17:24 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T15:17:24Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462865/",
+            "link": "https://commits.facepunch.com/462865/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Merge from rail_network_link",
+            "pubDate": "Thu, 19 Oct 2023 15:08:24 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T15:08:24Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462864/",
+            "link": "https://commits.facepunch.com/462864/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Added AutoCliffSplat and AutoCliffTopology parameters to monuments that can be used to opt out of the auto cliff generation",
+            "pubDate": "Thu, 19 Oct 2023 15:08:03 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T15:08:03Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462863/",
+            "link": "https://commits.facepunch.com/462863/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox-scenestaging",
+            "description": "Fixed update implementation\nWhen transform changed, notify our children too\nDisable fixed update for now",
+            "pubDate": "Thu, 19 Oct 2023 15:01:08 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T15:01:08Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462862/",
+            "link": "https://commits.facepunch.com/462862/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Subtracting 87935",
+            "pubDate": "Thu, 19 Oct 2023 14:51:00 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T14:51:00Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462861/",
+            "link": "https://commits.facepunch.com/462861/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox",
+            "description": "Native Resource Cache\n\nUse a sliding window cache alongside weak references for our native resources in C#. There were cases where we were reloading resources every frame because the garbage collector was too good at it's job, so we'll let per frame loads hang around a bit longer.\n\nResolves #1306",
+            "pubDate": "Thu, 19 Oct 2023 14:37:21 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T14:37:21Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462860/",
+            "link": "https://commits.facepunch.com/462860/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Fixed ProceduralMapRailSimple using a tiny world size",
+            "pubDate": "Thu, 19 Oct 2023 14:34:29 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T14:34:29Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462859/",
+            "link": "https://commits.facepunch.com/462859/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "train_tunnel_double_entrance_b implementation",
+            "pubDate": "Thu, 19 Oct 2023 14:34:08 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T14:34:08Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462858/",
+            "link": "https://commits.facepunch.com/462858/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox-assets",
+            "description": "bulkhead light",
+            "pubDate": "Thu, 19 Oct 2023 14:28:49 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T14:28:49Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462857/",
+            "link": "https://commits.facepunch.com/462857/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Hunting trophy compile fix when neither server nor client",
+            "pubDate": "Thu, 19 Oct 2023 14:19:14 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T14:19:14Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462856/",
+            "link": "https://commits.facepunch.com/462856/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox",
+            "description": "Add PhysicsWorld.Step( delta, substeps )",
+            "pubDate": "Thu, 19 Oct 2023 14:16:48 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T14:16:48Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462855/",
+            "link": "https://commits.facepunch.com/462855/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox",
+            "description": "Clear cache at opportune moments\nUse NativeResourceCache for other native resources\nDestroy strong handles on main thread\nGet rid of debug",
+            "pubDate": "Thu, 19 Oct 2023 13:57:49 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T13:57:49Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462854/",
+            "link": "https://commits.facepunch.com/462854/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox",
+            "description": "Give this a go",
+            "pubDate": "Thu, 19 Oct 2023 13:25:15 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T13:25:15Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462853/",
+            "link": "https://commits.facepunch.com/462853/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "merge from main",
+            "pubDate": "Thu, 19 Oct 2023 13:17:42 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T13:17:42Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462852/",
+            "link": "https://commits.facepunch.com/462852/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Fixed rail network link missing from underground map",
+            "pubDate": "Thu, 19 Oct 2023 13:14:27 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T13:14:27Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462850/",
+            "link": "https://commits.facepunch.com/462850/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "garrysmod",
+            "description": "Use Brackets for keys in PrintTable (#1754)\n\nTo avoid confusion when there is [357] and [\"357 \"] for example.\n\nExample of how that looks:\n```\n[0.000000 0.000000 0.000000]    =       Vector\n[1]     =       Number\n[Entity [0][worldspawn]]        =       Entity\n[\"stringIndex\"] =       String\n```",
+            "pubDate": "Thu, 19 Oct 2023 12:53:18 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T12:53:18Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462851/",
+            "link": "https://commits.facepunch.com/462851/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox",
+            "description": "Fix strong handle leak in Texture.FromNative",
+            "pubDate": "Thu, 19 Oct 2023 12:39:53 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T12:39:53Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462849/",
+            "link": "https://commits.facepunch.com/462849/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Added new rail entrance variant to cover higher terrain (fixes missing rail entrance on certain seeds)",
+            "pubDate": "Thu, 19 Oct 2023 12:38:24 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T12:38:24Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462848/",
+            "link": "https://commits.facepunch.com/462848/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Fixed weird circular / tight rail generation around rail entrances",
+            "pubDate": "Thu, 19 Oct 2023 12:38:04 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T12:38:04Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462847/",
+            "link": "https://commits.facepunch.com/462847/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Detection point and debug gizmos.",
+            "pubDate": "Thu, 19 Oct 2023 12:26:57 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T12:26:57Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462846/",
+            "link": "https://commits.facepunch.com/462846/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Cleaned up sethealth, setradiation and setwater methods. Allowed access to server admins. Swapped to debug rather than player.",
+            "pubDate": "Thu, 19 Oct 2023 12:16:53 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T12:16:53Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462844/",
+            "link": "https://commits.facepunch.com/462844/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "ActionJigs",
+            "description": "IsTypeParameterRequired shouldn't check properties",
+            "pubDate": "Thu, 19 Oct 2023 12:15:36 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T12:15:36Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462845/",
+            "link": "https://commits.facepunch.com/462845/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "ActionJigs",
+            "description": null,
+            "pubDate": "Thu, 19 Oct 2023 12:15:36 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T12:15:36Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462843/",
+            "link": "https://commits.facepunch.com/462843/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Compile fix.",
+            "pubDate": "Thu, 19 Oct 2023 11:50:17 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T11:50:17Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462842/",
+            "link": "https://commits.facepunch.com/462842/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Swapped PlayerMetabolism override to only be on the server.",
+            "pubDate": "Thu, 19 Oct 2023 11:47:23 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T11:47:23Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462841/",
+            "link": "https://commits.facepunch.com/462841/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox-scenestaging",
+            "description": "Clicking a GameObject in a GameObjectControlWidget will select it\nFill out TreeNode.HasDescendant for GameObjects",
+            "pubDate": "Thu, 19 Oct 2023 11:40:37 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T11:40:37Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462840/",
+            "link": "https://commits.facepunch.com/462840/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox",
+            "description": "SelectionSystem has events\nRename TreeNode.HasChild to TreeNode.HasDescendant\nOpen and scroll to selected item in treeview",
+            "pubDate": "Thu, 19 Oct 2023 11:37:08 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T11:37:08Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462839/",
+            "link": "https://commits.facepunch.com/462839/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Sweetspot detection wip",
+            "pubDate": "Thu, 19 Oct 2023 11:23:28 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T11:23:28Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462837/",
+            "link": "https://commits.facepunch.com/462837/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "ActionJigs",
+            "description": "Pure methods become expression nodes",
+            "pubDate": "Thu, 19 Oct 2023 11:22:49 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T11:22:49Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462838/",
+            "link": "https://commits.facepunch.com/462838/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "ActionJigs",
+            "description": null,
+            "pubDate": "Thu, 19 Oct 2023 11:22:49 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T11:22:49Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462836/",
+            "link": "https://commits.facepunch.com/462836/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Swapped to using DDraw for frustum rendering.",
+            "pubDate": "Thu, 19 Oct 2023 11:07:21 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T11:07:21Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462835/",
+            "link": "https://commits.facepunch.com/462835/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "\u2588\u2586\u258c\u2588\u258a\u2584\u2586\u2589",
+            "pubDate": "Thu, 19 Oct 2023 11:03:09 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T11:03:09Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462834/",
+            "link": "https://commits.facepunch.com/462834/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Nuked \"Rust/Standard Mesh Terrain\" and transferred functionality to \"Rust/Standard Terrain\" controlled via Terrain Type drop down",
+            "pubDate": "Thu, 19 Oct 2023 11:01:29 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T11:01:29Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462833/",
+            "link": "https://commits.facepunch.com/462833/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "garrysmod",
+            "description": "Clear DoF_Ents table on DOF_Kill (#2020)",
+            "pubDate": "Thu, 19 Oct 2023 10:55:11 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T10:55:11Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462832/",
+            "link": "https://commits.facepunch.com/462832/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox",
+            "description": "Updated trace code from Jay",
+            "pubDate": "Thu, 19 Oct 2023 10:27:17 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T10:27:17Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462831/",
+            "link": "https://commits.facepunch.com/462831/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox-scenestaging",
+            "description": "Fix colliders not rebuilding when editing transform or collider properties",
+            "pubDate": "Thu, 19 Oct 2023 10:18:52 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T10:18:52Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462830/",
+            "link": "https://commits.facepunch.com/462830/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "Serialization",
+            "pubDate": "Thu, 19 Oct 2023 09:26:25 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T09:26:25Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462829/",
+            "link": "https://commits.facepunch.com/462829/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox",
+            "description": "Rescale body when setting transform with different scale",
+            "pubDate": "Thu, 19 Oct 2023 09:18:58 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T09:18:58Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462828/",
+            "link": "https://commits.facepunch.com/462828/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox",
+            "description": "add Gizmo.Draw.SolidNavigationMesh, LineNavigationMesh",
+            "pubDate": "Thu, 19 Oct 2023 08:49:05 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T08:49:05Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462827/",
+            "link": "https://commits.facepunch.com/462827/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "sbox-scenestaging",
+            "description": "Remove the debug gizmo text output in CharacterControllerHelper",
+            "pubDate": "Thu, 19 Oct 2023 08:48:18 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T08:48:18Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462826/",
+            "link": "https://commits.facepunch.com/462826/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "merge from main",
+            "pubDate": "Thu, 19 Oct 2023 08:41:50 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T08:41:50Z"
+        },
+        {
+            "guid": "https://commits.facepunch.com/462825/",
+            "link": "https://commits.facepunch.com/462825/",
+            "{http://www.w3.org/2005/Atom}author": null,
+            "title": "rust_reboot",
+            "description": "merge from base_decor_DLC",
+            "pubDate": "Thu, 19 Oct 2023 08:41:37 Z",
+            "{http://www.w3.org/2005/Atom}link": null,
+            "{http://www.w3.org/2005/Atom}updated": "2023-10-19T08:41:37Z"
+        }
+    ]
+}
