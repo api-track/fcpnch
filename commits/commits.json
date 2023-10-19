@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add .gma to file.Write whitelist\nMove where gmod_unload_test is defined to appease linux srcds\nSupport Vector / Vector\nMerged pull requests\n\n* Clean up DOF_Ents table on DOF_Kill\n* Use Brackets for keys in PrintTable to avoid confusion with trailing/leading whitespace\nRecalculateLineBreaks before firing OnTextChanged\n\nFix Panel:GetNumLines not being up to date within that hook.",
+            "guid": "https://commits.facepunch.com/462878/",
+            "pubDate": "Thu, 19 Oct 2023 17:41:34 Z",
+            "title": "garrysmod.main"
+        },
+        {
             "description": "Merge from shader-stdblends-extended",
             "guid": "https://commits.facepunch.com/462877/",
             "pubDate": "Thu, 19 Oct 2023 17:40:06 Z",
@@ -292,12 +298,6 @@
             "description": "Rescale body when setting transform with different scale",
             "guid": "https://commits.facepunch.com/462829/",
             "pubDate": "Thu, 19 Oct 2023 09:18:58 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "add Gizmo.Draw.SolidNavigationMesh, LineNavigationMesh",
-            "guid": "https://commits.facepunch.com/462828/",
-            "pubDate": "Thu, 19 Oct 2023 08:49:05 Z",
             "title": "sbox"
         }
     ]
