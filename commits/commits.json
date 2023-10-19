@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Removal basics (very wip)",
+            "guid": "https://commits.facepunch.com/462879/",
+            "pubDate": "Thu, 19 Oct 2023 17:45:31 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Add .gma to file.Write whitelist\nMove where gmod_unload_test is defined to appease linux srcds\nSupport Vector / Vector\nMerged pull requests\n\n* Clean up DOF_Ents table on DOF_Kill\n* Use Brackets for keys in PrintTable to avoid confusion with trailing/leading whitespace\nRecalculateLineBreaks before firing OnTextChanged\n\nFix Panel:GetNumLines not being up to date within that hook.",
             "guid": "https://commits.facepunch.com/462878/",
             "pubDate": "Thu, 19 Oct 2023 17:41:34 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/462830/",
             "pubDate": "Thu, 19 Oct 2023 09:26:25 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Rescale body when setting transform with different scale",
-            "guid": "https://commits.facepunch.com/462829/",
-            "pubDate": "Thu, 19 Oct 2023 09:18:58 Z",
-            "title": "sbox"
         }
     ]
 }
