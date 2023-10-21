@@ -647,6 +647,12 @@
             "guid": "https://commits.facepunch.com/463003/",
             "pubDate": "Sat, 21 Oct 2023 05:22:00 Z",
             "title": "sbox"
+        },
+        {
+            "description": "Rerouting fixes\nFixed handle config names for generic types",
+            "guid": "https://commits.facepunch.com/462998/",
+            "pubDate": "Sat, 21 Oct 2023 00:18:25 Z",
+            "title": "sbox"
         }
     ]
 }
