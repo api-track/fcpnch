@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Apply same fix to picking up the codelock",
+            "guid": "https://commits.facepunch.com/463037/",
+            "pubDate": "Sat, 21 Oct 2023 15:44:49 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fix not being able to enter code on one side of the door, when you are too far away from the codelock but within interaction range of the door",
             "guid": "https://commits.facepunch.com/463036/",
             "pubDate": "Sat, 21 Oct 2023 15:39:58 Z",
@@ -292,12 +298,6 @@
             "description": "Reworked the train signal lights and lighting.",
             "guid": "https://commits.facepunch.com/462988/",
             "pubDate": "Fri, 20 Oct 2023 22:02:52 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "vampire stake loot spawn (small loot bag)\nbonus loot for scarecrow kills with vampire stake\nincreased chance of additional frankenstein parts",
-            "guid": "https://commits.facepunch.com/462987/",
-            "pubDate": "Fri, 20 Oct 2023 21:58:14 Z",
             "title": "rust_reboot"
         }
     ]
