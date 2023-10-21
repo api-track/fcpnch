@@ -611,6 +611,12 @@
             "guid": "https://commits.facepunch.com/463005/",
             "pubDate": "Sat, 21 Oct 2023 06:06:48 Z",
             "title": "chippy-backup"
+        },
+        {
+            "description": "Error list title fix",
+            "guid": "https://commits.facepunch.com/463000/",
+            "pubDate": "Sat, 21 Oct 2023 00:47:30 Z",
+            "title": "sbox-scenestaging"
         }
     ]
 }
