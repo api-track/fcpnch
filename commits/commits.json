@@ -1,304 +1,304 @@
 {
     "items": [
         {
-            "description": "Removal basics (very wip)",
-            "guid": "https://commits.facepunch.com/462879/",
-            "pubDate": "Thu, 19 Oct 2023 17:45:31 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Add .gma to file.Write whitelist\nMove where gmod_unload_test is defined to appease linux srcds\nSupport Vector / Vector\nMerged pull requests\n\n* Clean up DOF_Ents table on DOF_Kill\n* Use Brackets for keys in PrintTable to avoid confusion with trailing/leading whitespace\nRecalculateLineBreaks before firing OnTextChanged\n\nFix Panel:GetNumLines not being up to date within that hook.",
-            "guid": "https://commits.facepunch.com/462878/",
-            "pubDate": "Thu, 19 Oct 2023 17:41:34 Z",
-            "title": "garrysmod.main"
-        },
-        {
-            "description": "Merge from shader-stdblends-extended",
-            "guid": "https://commits.facepunch.com/462877/",
-            "pubDate": "Thu, 19 Oct 2023 17:40:06 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Fixed portacabin materials",
-            "guid": "https://commits.facepunch.com/462876/",
-            "pubDate": "Thu, 19 Oct 2023 17:36:27 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "▇▍▌▍▊▄▅ ▊▇ ▍█▊▉▊█▅▉▅▌▋▆▄▅▉",
-            "guid": "https://commits.facepunch.com/462875/",
-            "pubDate": "Thu, 19 Oct 2023 16:52:30 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Type selection drop down\nFleshed out type selector, now checks constraints\nPure attribute for some things that should be expression nodes",
-            "guid": "https://commits.facepunch.com/462874/",
-            "pubDate": "Thu, 19 Oct 2023 16:50:35 Z",
-            "title": "sbox-scenestaging"
-        },
-        {
-            "description": "Some more nodes",
-            "guid": "https://commits.facepunch.com/462873/",
-            "pubDate": "Thu, 19 Oct 2023 16:48:52 Z",
+            "description": "Remove SetOnBreakHandler, callback is always added\nSupport body gravity enable",
+            "guid": "https://commits.facepunch.com/463009/",
+            "pubDate": "Sat, 21 Oct 2023 09:24:23 Z",
             "title": "sbox"
         },
         {
-            "description": "Terrain blending now working with Mesh terrain type (e.g. cliff); fully automatic for now but requires MeshTerrainRoot script on hierarchy",
-            "guid": "https://commits.facepunch.com/462872/",
-            "pubDate": "Thu, 19 Oct 2023 16:46:55 Z",
+            "description": "Setup joint break callback, break joint on body remove",
+            "guid": "https://commits.facepunch.com/463008/",
+            "pubDate": "Sat, 21 Oct 2023 09:05:00 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "AnimatedModel creates and updates bone GameObjects (not the best perf right now, but I will address it)",
+            "guid": "https://commits.facepunch.com/463007/",
+            "pubDate": "Sat, 21 Oct 2023 06:46:21 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
+            "description": "Fix startup error\nPerformance scope animation update",
+            "guid": "https://commits.facepunch.com/463006/",
+            "pubDate": "Sat, 21 Oct 2023 06:20:25 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "Leaderboard backup, run #6821",
+            "guid": "https://commits.facepunch.com/463005/",
+            "pubDate": "Sat, 21 Oct 2023 06:06:48 Z",
+            "title": "chippy-backup"
+        },
+        {
+            "description": "AssetSystem: optimize FindByPath lookup\nOptimize GameResourceProcessor\nKeep __references ordered to avoid diff hell\nOptimize recursive WalkJsonTree",
+            "guid": "https://commits.facepunch.com/463004/",
+            "pubDate": "Sat, 21 Oct 2023 05:45:04 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "FPArms: updated weightlists\nFPArms: overhauled punching animgraph (still some things to iron out, but the core functionality works again at least)",
+            "guid": "https://commits.facepunch.com/463003/",
+            "pubDate": "Sat, 21 Oct 2023 05:22:00 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "Save the equipment & storage inventory separately in protobuf",
+            "guid": "https://commits.facepunch.com/463002/",
+            "pubDate": "Sat, 21 Oct 2023 04:43:48 Z",
             "title": "rust_reboot"
         },
         {
-            "description": "▆▋▄▅▌ & ▉▇▊▌.  (██▉ ▋▉▊▊▌▋▋▆▋▄ ▉▅▋)",
-            "guid": "https://commits.facepunch.com/462871/",
-            "pubDate": "Thu, 19 Oct 2023 16:30:08 Z",
+            "description": "Don't show \"Open Storage\" menu option if they have no saddle bags equipped / no storage slots",
+            "guid": "https://commits.facepunch.com/463001/",
+            "pubDate": "Sat, 21 Oct 2023 04:10:59 Z",
             "title": "rust_reboot"
+        },
+        {
+            "description": "Error list title fix",
+            "guid": "https://commits.facepunch.com/463000/",
+            "pubDate": "Sat, 21 Oct 2023 00:47:30 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
+            "description": "Rerouting and other fixes",
+            "guid": "https://commits.facepunch.com/462999/",
+            "pubDate": "Sat, 21 Oct 2023 00:19:09 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
+            "description": "Rerouting fixes\nFixed handle config names for generic types",
+            "guid": "https://commits.facepunch.com/462998/",
+            "pubDate": "Sat, 21 Oct 2023 00:18:25 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "FireSignalExpression fix",
+            "guid": "https://commits.facepunch.com/462996/",
+            "pubDate": "Fri, 20 Oct 2023 23:42:46 Z",
+            "title": "ActionJigs"
         },
         {
             "description": null,
-            "guid": "https://commits.facepunch.com/462870/",
-            "pubDate": "Thu, 19 Oct 2023 16:29:03 Z",
+            "guid": "https://commits.facepunch.com/462997/",
+            "pubDate": "Fri, 20 Oct 2023 23:42:46 Z",
             "title": "ActionJigs"
         },
         {
-            "description": "Include generic parameter in PropertyDefinition",
-            "guid": "https://commits.facepunch.com/462869/",
-            "pubDate": "Thu, 19 Oct 2023 16:29:03 Z",
+            "description": null,
+            "guid": "https://commits.facepunch.com/462995/",
+            "pubDate": "Fri, 20 Oct 2023 23:30:34 Z",
             "title": "ActionJigs"
         },
         {
-            "description": "merge from main",
-            "guid": "https://commits.facepunch.com/462868/",
-            "pubDate": "Thu, 19 Oct 2023 16:08:43 Z",
+            "description": "Some safety when deserializing types",
+            "guid": "https://commits.facepunch.com/462994/",
+            "pubDate": "Fri, 20 Oct 2023 23:30:34 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "Fixed another generic type binding case",
+            "guid": "https://commits.facepunch.com/462993/",
+            "pubDate": "Fri, 20 Oct 2023 23:23:25 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "Fixed another generic type binding case",
+            "guid": "https://commits.facepunch.com/462992/",
+            "pubDate": "Fri, 20 Oct 2023 23:23:25 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": null,
+            "guid": "https://commits.facepunch.com/462991/",
+            "pubDate": "Fri, 20 Oct 2023 22:52:02 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "Fixed Nop node passing signals",
+            "guid": "https://commits.facepunch.com/462990/",
+            "pubDate": "Fri, 20 Oct 2023 22:52:02 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "World models for DraculaMask/DraculaCape",
+            "guid": "https://commits.facepunch.com/462989/",
+            "pubDate": "Fri, 20 Oct 2023 22:40:43 Z",
             "title": "rust_reboot"
         },
         {
-            "description": "▅▊▆▆ ▄▄▉▉▇.\n▍▉█▄█▌▅▆▆ ▊▊▆▅▌ ▋▇▋▋▋█.",
-            "guid": "https://commits.facepunch.com/462867/",
-            "pubDate": "Thu, 19 Oct 2023 16:00:54 Z",
+            "description": "Reworked the train signal lights and lighting.",
+            "guid": "https://commits.facepunch.com/462988/",
+            "pubDate": "Fri, 20 Oct 2023 22:02:52 Z",
             "title": "rust_reboot"
         },
         {
-            "description": "more wip placeholder UI and sweetspot detection",
-            "guid": "https://commits.facepunch.com/462866/",
-            "pubDate": "Thu, 19 Oct 2023 15:17:24 Z",
+            "description": "vampire stake loot spawn (small loot bag)\nbonus loot for scarecrow kills with vampire stake\nincreased chance of additional frankenstein parts",
+            "guid": "https://commits.facepunch.com/462987/",
+            "pubDate": "Fri, 20 Oct 2023 21:58:14 Z",
             "title": "rust_reboot"
+        },
+        {
+            "description": "vampire stake sounds",
+            "guid": "https://commits.facepunch.com/462986/",
+            "pubDate": "Fri, 20 Oct 2023 21:42:59 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Some cleanup\nNoOperation node definition",
+            "guid": "https://commits.facepunch.com/462984/",
+            "pubDate": "Fri, 20 Oct 2023 21:42:09 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": null,
+            "guid": "https://commits.facepunch.com/462985/",
+            "pubDate": "Fri, 20 Oct 2023 21:42:09 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "Create seperate loot panels for horse equipment + stats & horse storage to support >6 storage per saddle bag\nIncrease saddle bag from 6 -> 12 storage slots again\nSplit into two inventories: one for equipment, one for storage (rather than first 4 slots being only for equipment and using clientside loot panel to pretend they are different)\nCreate a new menu option for \"animal storage\", keep examine as the equipment loot panel",
+            "guid": "https://commits.facepunch.com/462983/",
+            "pubDate": "Fri, 20 Oct 2023 21:27:50 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Dracula outfit viewmodel",
+            "guid": "https://commits.facepunch.com/462982/",
+            "pubDate": "Fri, 20 Oct 2023 21:17:29 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "▋▄▍▉▉▊▊ ▋█▄▉█ █▋▊▇▅ ▍▋▌▇▄▅▉█▄▋ █▍ ▆█▌ ▄▆▋█, ▄▇▋▍ ▅▌▅▄▅▇▇ ██▅▆█▉, ▅▋▊▍▇▄█ ▌▆▌▅▉ ▋▇▆▄▆▇ ▋▅▋▊█ ▍▄▇ ▅▊▇",
+            "guid": "https://commits.facepunch.com/462981/",
+            "pubDate": "Fri, 20 Oct 2023 21:14:29 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "DraculaMask fits over a bandana",
+            "guid": "https://commits.facepunch.com/462980/",
+            "pubDate": "Fri, 20 Oct 2023 20:21:36 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "frankenstein buffs, light vs heavy is more apparent\nincreased base frankenstein health from 100 to 150",
+            "guid": "https://commits.facepunch.com/462979/",
+            "pubDate": "Fri, 20 Oct 2023 19:33:11 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Tweaked entrance heightmap to fix odd foliage placement",
+            "guid": "https://commits.facepunch.com/462978/",
+            "pubDate": "Fri, 20 Oct 2023 19:29:49 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "missing file",
+            "guid": "https://commits.facepunch.com/462977/",
+            "pubDate": "Fri, 20 Oct 2023 18:31:12 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "progress",
+            "guid": "https://commits.facepunch.com/462976/",
+            "pubDate": "Fri, 20 Oct 2023 18:29:43 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Stash PoC code for reference (temp)",
+            "guid": "https://commits.facepunch.com/462975/",
+            "pubDate": "Fri, 20 Oct 2023 17:50:07 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "lr300 holdtype override updates",
+            "guid": "https://commits.facepunch.com/462974/",
+            "pubDate": "Fri, 20 Oct 2023 17:06:01 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Squashed revert back to commit 052bf8ece71b6de44f62c108626c6444a936f90f\n\nGoing to tackle this stuff differently\nFix IPD calc, camera positioning, fix InchToMillimeter that was converting from mm to inch\nRemove compositor benchmark stuff, we're not using it at the minute\nTry GetLastPoses instead of GetTrackedDevicePoses - might not be the right call since we can use the latter to predict X ms ahead\nHalf IPD",
+            "guid": "https://commits.facepunch.com/462973/",
+            "pubDate": "Fri, 20 Oct 2023 16:23:40 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "updates to push gesture asset and gestures animator",
+            "guid": "https://commits.facepunch.com/462972/",
+            "pubDate": "Fri, 20 Oct 2023 16:19:12 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Dracula outfit lods",
+            "guid": "https://commits.facepunch.com/462971/",
+            "pubDate": "Fri, 20 Oct 2023 15:41:14 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Ensure parameters are ordered correctly",
+            "guid": "https://commits.facepunch.com/462969/",
+            "pubDate": "Fri, 20 Oct 2023 14:50:30 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": null,
+            "guid": "https://commits.facepunch.com/462970/",
+            "pubDate": "Fri, 20 Oct 2023 14:50:30 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "Add AnimatedModelComponent\nAdd SetAnimParameter functions for AnimatedModelComponent\nAdd CitizenAnimation component\nRemove debug\nUpdate AnimatedModelComponent with new getters for parameters",
+            "guid": "https://commits.facepunch.com/462968/",
+            "pubDate": "Fri, 20 Oct 2023 14:49:11 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
+            "description": "SceneModel can get anim parameters",
+            "guid": "https://commits.facepunch.com/462967/",
+            "pubDate": "Fri, 20 Oct 2023 14:47:46 Z",
+            "title": "sbox"
         },
         {
             "description": "Merge from rail_network_link",
-            "guid": "https://commits.facepunch.com/462865/",
-            "pubDate": "Thu, 19 Oct 2023 15:08:24 Z",
+            "guid": "https://commits.facepunch.com/462966/",
+            "pubDate": "Fri, 20 Oct 2023 14:06:35 Z",
             "title": "rust_reboot"
         },
         {
-            "description": "Added AutoCliffSplat and AutoCliffTopology parameters to monuments that can be used to opt out of the auto cliff generation",
-            "guid": "https://commits.facepunch.com/462864/",
-            "pubDate": "Thu, 19 Oct 2023 15:08:03 Z",
+            "description": "GenerateRailLayout improvements\nCreateRailCostmap improvements",
+            "guid": "https://commits.facepunch.com/462965/",
+            "pubDate": "Fri, 20 Oct 2023 14:06:16 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Fixed update implementation\nWhen transform changed, notify our children too\nDisable fixed update for now",
-            "guid": "https://commits.facepunch.com/462863/",
-            "pubDate": "Thu, 19 Oct 2023 15:01:08 Z",
-            "title": "sbox-scenestaging"
-        },
-        {
-            "description": "Subtracting 87935",
-            "guid": "https://commits.facepunch.com/462862/",
-            "pubDate": "Thu, 19 Oct 2023 14:51:00 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Native Resource Cache\n\nUse a sliding window cache alongside weak references for our native resources in C#. There were cases where we were reloading resources every frame because the garbage collector was too good at it's job, so we'll let per frame loads hang around a bit longer.\n\nResolves #1306",
-            "guid": "https://commits.facepunch.com/462861/",
-            "pubDate": "Thu, 19 Oct 2023 14:37:21 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Fixed ProceduralMapRailSimple using a tiny world size",
-            "guid": "https://commits.facepunch.com/462860/",
-            "pubDate": "Thu, 19 Oct 2023 14:34:29 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "train_tunnel_double_entrance_b implementation",
-            "guid": "https://commits.facepunch.com/462859/",
-            "pubDate": "Thu, 19 Oct 2023 14:34:08 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "bulkhead light",
-            "guid": "https://commits.facepunch.com/462858/",
-            "pubDate": "Thu, 19 Oct 2023 14:28:49 Z",
-            "title": "sbox-assets"
-        },
-        {
-            "description": "Hunting trophy compile fix when neither server nor client",
-            "guid": "https://commits.facepunch.com/462857/",
-            "pubDate": "Thu, 19 Oct 2023 14:19:14 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Add PhysicsWorld.Step( delta, substeps )",
-            "guid": "https://commits.facepunch.com/462856/",
-            "pubDate": "Thu, 19 Oct 2023 14:16:48 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Clear cache at opportune moments\nUse NativeResourceCache for other native resources\nDestroy strong handles on main thread\nGet rid of debug",
-            "guid": "https://commits.facepunch.com/462855/",
-            "pubDate": "Thu, 19 Oct 2023 13:57:49 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Give this a go",
-            "guid": "https://commits.facepunch.com/462854/",
-            "pubDate": "Thu, 19 Oct 2023 13:25:15 Z",
-            "title": "sbox"
         },
         {
             "description": "merge from main",
-            "guid": "https://commits.facepunch.com/462853/",
-            "pubDate": "Thu, 19 Oct 2023 13:17:42 Z",
+            "guid": "https://commits.facepunch.com/462964/",
+            "pubDate": "Fri, 20 Oct 2023 14:03:32 Z",
             "title": "rust_reboot"
         },
         {
-            "description": "Fixed rail network link missing from underground map",
-            "guid": "https://commits.facepunch.com/462852/",
-            "pubDate": "Thu, 19 Oct 2023 13:14:27 Z",
+            "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/462963/",
+            "pubDate": "Fri, 20 Oct 2023 14:03:11 Z",
             "title": "rust_reboot"
         },
         {
-            "description": "Use Brackets for keys in PrintTable (#1754)\n\nTo avoid confusion when there is [357] and [\"357 \"] for example.\n\nExample of how that looks:\n```\n[0.000000 0.000000 0.000000]    =       Vector\n[1]     =       Number\n[Entity [0][worldspawn]]        =       Entity\n[\"stringIndex\"] =       String\n```",
-            "guid": "https://commits.facepunch.com/462850/",
-            "pubDate": "Thu, 19 Oct 2023 12:53:18 Z",
-            "title": "garrysmod"
-        },
-        {
-            "description": "Fix strong handle leak in Texture.FromNative",
-            "guid": "https://commits.facepunch.com/462851/",
-            "pubDate": "Thu, 19 Oct 2023 12:39:53 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Added new rail entrance variant to cover higher terrain (fixes missing rail entrance on certain seeds)",
-            "guid": "https://commits.facepunch.com/462849/",
-            "pubDate": "Thu, 19 Oct 2023 12:38:24 Z",
+            "description": "scoreboard fixes (again)",
+            "guid": "https://commits.facepunch.com/462962/",
+            "pubDate": "Fri, 20 Oct 2023 14:02:00 Z",
             "title": "rust_reboot"
         },
         {
-            "description": "Fixed weird circular / tight rail generation around rail entrances",
-            "guid": "https://commits.facepunch.com/462848/",
-            "pubDate": "Thu, 19 Oct 2023 12:38:04 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Detection point and debug gizmos.",
-            "guid": "https://commits.facepunch.com/462847/",
-            "pubDate": "Thu, 19 Oct 2023 12:26:57 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Cleaned up sethealth, setradiation and setwater methods. Allowed access to server admins. Swapped to debug rather than player.",
-            "guid": "https://commits.facepunch.com/462846/",
-            "pubDate": "Thu, 19 Oct 2023 12:16:53 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "IsTypeParameterRequired shouldn't check properties",
-            "guid": "https://commits.facepunch.com/462844/",
-            "pubDate": "Thu, 19 Oct 2023 12:15:36 Z",
-            "title": "ActionJigs"
-        },
-        {
-            "description": null,
-            "guid": "https://commits.facepunch.com/462845/",
-            "pubDate": "Thu, 19 Oct 2023 12:15:36 Z",
-            "title": "ActionJigs"
-        },
-        {
-            "description": "Compile fix.",
-            "guid": "https://commits.facepunch.com/462843/",
-            "pubDate": "Thu, 19 Oct 2023 11:50:17 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Swapped PlayerMetabolism override to only be on the server.",
-            "guid": "https://commits.facepunch.com/462842/",
-            "pubDate": "Thu, 19 Oct 2023 11:47:23 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Clicking a GameObject in a GameObjectControlWidget will select it\nFill out TreeNode.HasDescendant for GameObjects",
-            "guid": "https://commits.facepunch.com/462841/",
-            "pubDate": "Thu, 19 Oct 2023 11:40:37 Z",
+            "description": "Icon fixes",
+            "guid": "https://commits.facepunch.com/462961/",
+            "pubDate": "Fri, 20 Oct 2023 13:59:28 Z",
             "title": "sbox-scenestaging"
         },
         {
-            "description": "SelectionSystem has events\nRename TreeNode.HasChild to TreeNode.HasDescendant\nOpen and scroll to selected item in treeview",
-            "guid": "https://commits.facepunch.com/462840/",
-            "pubDate": "Thu, 19 Oct 2023 11:37:08 Z",
+            "description": "PlugIn respects ShowLabel",
+            "guid": "https://commits.facepunch.com/462960/",
+            "pubDate": "Fri, 20 Oct 2023 13:59:13 Z",
             "title": "sbox"
-        },
-        {
-            "description": "Sweetspot detection wip",
-            "guid": "https://commits.facepunch.com/462839/",
-            "pubDate": "Thu, 19 Oct 2023 11:23:28 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Pure methods become expression nodes",
-            "guid": "https://commits.facepunch.com/462837/",
-            "pubDate": "Thu, 19 Oct 2023 11:22:49 Z",
-            "title": "ActionJigs"
-        },
-        {
-            "description": null,
-            "guid": "https://commits.facepunch.com/462838/",
-            "pubDate": "Thu, 19 Oct 2023 11:22:49 Z",
-            "title": "ActionJigs"
-        },
-        {
-            "description": "Swapped to using DDraw for frustum rendering.",
-            "guid": "https://commits.facepunch.com/462836/",
-            "pubDate": "Thu, 19 Oct 2023 11:07:21 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "█▆▌█▊▄▆▉",
-            "guid": "https://commits.facepunch.com/462835/",
-            "pubDate": "Thu, 19 Oct 2023 11:03:09 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Nuked \"Rust/Standard Mesh Terrain\" and transferred functionality to \"Rust/Standard Terrain\" controlled via Terrain Type drop down",
-            "guid": "https://commits.facepunch.com/462834/",
-            "pubDate": "Thu, 19 Oct 2023 11:01:29 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Clear DoF_Ents table on DOF_Kill (#2020)",
-            "guid": "https://commits.facepunch.com/462833/",
-            "pubDate": "Thu, 19 Oct 2023 10:55:11 Z",
-            "title": "garrysmod"
-        },
-        {
-            "description": "Updated trace code from Jay",
-            "guid": "https://commits.facepunch.com/462832/",
-            "pubDate": "Thu, 19 Oct 2023 10:27:17 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Fix colliders not rebuilding when editing transform or collider properties",
-            "guid": "https://commits.facepunch.com/462831/",
-            "pubDate": "Thu, 19 Oct 2023 10:18:52 Z",
-            "title": "sbox-scenestaging"
-        },
-        {
-            "description": "Serialization",
-            "guid": "https://commits.facepunch.com/462830/",
-            "pubDate": "Thu, 19 Oct 2023 09:26:25 Z",
-            "title": "rust_reboot"
         }
     ]
 }
