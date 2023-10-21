@@ -599,6 +599,12 @@
             "guid": "https://commits.facepunch.com/462966/",
             "pubDate": "Fri, 20 Oct 2023 14:06:35 Z",
             "title": "rust_reboot"
+        },
+        {
+            "description": "Transplant new physics interface to master, start fixing up shit again\nRemove unused from iphysicsshape\nRemove unused from iphysicsjoint\nRemove unused from iphysicsbody\nAdd back AddHullShape and AddMeshShape that takes a transform, implement later.. these are needed now :(\nRemove unused from physicsaggregate\nRemove unused from physicsworld\nRemove unused from physicssystem\nRemove shared manifold and physics contact shite\nAdd intersection controller, kinda bullshit but needed\nGet game compiling again\nBuild new mesh and hull when adding transformed hulls and meshes\nSupport creating transformed hull from mesh (why tho?)\nLatest trace solver\nReturn default physics material when user data is null\nSetup joint break callback, break joint on body remove\nRemove SetOnBreakHandler, callback is always added\nSupport body gravity enable\nFix joint and body double delete\nShould be null checking this in water controller",
+            "guid": "https://commits.facepunch.com/463015/",
+            "pubDate": "Sat, 21 Oct 2023 10:57:07 Z",
+            "title": "sbox"
         }
     ]
 }
