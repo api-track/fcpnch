@@ -1,6 +1,30 @@
 {
     "items": [
         {
+            "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463047/",
+            "pubDate": "Sat, 21 Oct 2023 17:33:15 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Holding shift while right clicking items into the repair bench will apply the last skin automatically\nAllow skinning <0.75s but don't play the effect if it occured under that delay",
+            "guid": "https://commits.facepunch.com/463046/",
+            "pubDate": "Sat, 21 Oct 2023 17:33:08 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463045/",
+            "pubDate": "Sat, 21 Oct 2023 17:33:01 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "frankenstein table craft fix",
+            "guid": "https://commits.facepunch.com/463044/",
+            "pubDate": "Sat, 21 Oct 2023 17:32:36 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Move scenes out of root\nMove components\nCleanup test scenes",
             "guid": "https://commits.facepunch.com/463043/",
             "pubDate": "Sat, 21 Oct 2023 17:27:30 Z",
@@ -275,30 +299,6 @@
             "guid": "https://commits.facepunch.com/462998/",
             "pubDate": "Sat, 21 Oct 2023 00:18:25 Z",
             "title": "sbox"
-        },
-        {
-            "description": "FireSignalExpression fix",
-            "guid": "https://commits.facepunch.com/462996/",
-            "pubDate": "Fri, 20 Oct 2023 23:42:46 Z",
-            "title": "ActionJigs"
-        },
-        {
-            "description": null,
-            "guid": "https://commits.facepunch.com/462997/",
-            "pubDate": "Fri, 20 Oct 2023 23:42:46 Z",
-            "title": "ActionJigs"
-        },
-        {
-            "description": null,
-            "guid": "https://commits.facepunch.com/462995/",
-            "pubDate": "Fri, 20 Oct 2023 23:30:34 Z",
-            "title": "ActionJigs"
-        },
-        {
-            "description": "Some safety when deserializing types",
-            "guid": "https://commits.facepunch.com/462994/",
-            "pubDate": "Fri, 20 Oct 2023 23:30:34 Z",
-            "title": "ActionJigs"
         }
     ]
 }
