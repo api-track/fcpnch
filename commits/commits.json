@@ -623,6 +623,12 @@
             "guid": "https://commits.facepunch.com/462999/",
             "pubDate": "Sat, 21 Oct 2023 00:19:09 Z",
             "title": "sbox-scenestaging"
+        },
+        {
+            "description": "FireSignalExpression fix",
+            "guid": "https://commits.facepunch.com/462996/",
+            "pubDate": "Fri, 20 Oct 2023 23:42:46 Z",
+            "title": "ActionJigs"
         }
     ]
 }
