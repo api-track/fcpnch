@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Joint motors from desc",
+            "guid": "https://commits.facepunch.com/463051/",
+            "pubDate": "Sat, 21 Oct 2023 22:55:52 Z",
+            "title": "sbox"
+        },
+        {
             "description": "frontier_mirror variants, gibs, setup prefabs, icons. cleaned up temp folder",
             "guid": "https://commits.facepunch.com/463050/",
             "pubDate": "Sat, 21 Oct 2023 20:38:55 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463001/",
             "pubDate": "Sat, 21 Oct 2023 04:10:59 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "many small changes\nfire/poison damage stat includes overall dmg mult\nfix reroll sfx, balance, etc\nlevel earliest upgrade\npacifist barrel upgrade\nlevelupexisting fix",
-            "guid": "https://commits.facepunch.com/463018/",
-            "pubDate": "Sat, 21 Oct 2023 01:35:19 Z",
-            "title": "sbox-sausagesurvivors2"
         }
     ]
 }
