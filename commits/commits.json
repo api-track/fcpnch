@@ -623,6 +623,12 @@
             "guid": "https://commits.facepunch.com/463009/",
             "pubDate": "Sat, 21 Oct 2023 09:24:23 Z",
             "title": "sbox"
+        },
+        {
+            "description": "Setup joint break callback, break joint on body remove",
+            "guid": "https://commits.facepunch.com/463008/",
+            "pubDate": "Sat, 21 Oct 2023 09:05:00 Z",
+            "title": "sbox"
         }
     ]
 }
