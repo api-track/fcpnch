@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/463028/",
+            "pubDate": "Sat, 21 Oct 2023 13:35:56 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/463027/",
+            "pubDate": "Sat, 21 Oct 2023 13:35:38 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "merge form main",
             "guid": "https://commits.facepunch.com/463025/",
             "pubDate": "Sat, 21 Oct 2023 13:35:07 Z",
@@ -286,18 +298,6 @@
             "description": "frankenstein buffs, light vs heavy is more apparent\nincreased base frankenstein health from 100 to 150",
             "guid": "https://commits.facepunch.com/462979/",
             "pubDate": "Fri, 20 Oct 2023 19:33:11 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Tweaked entrance heightmap to fix odd foliage placement",
-            "guid": "https://commits.facepunch.com/462978/",
-            "pubDate": "Fri, 20 Oct 2023 19:29:49 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "missing file",
-            "guid": "https://commits.facepunch.com/462977/",
-            "pubDate": "Fri, 20 Oct 2023 18:31:12 Z",
             "title": "rust_reboot"
         }
     ]
