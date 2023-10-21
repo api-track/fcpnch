@@ -599,6 +599,12 @@
             "guid": "https://commits.facepunch.com/462966/",
             "pubDate": "Fri, 20 Oct 2023 14:06:35 Z",
             "title": "rust_reboot"
+        },
+        {
+            "description": "AnimatedModel creates and updates bone GameObjects (not the best perf right now, but I will address it)",
+            "guid": "https://commits.facepunch.com/463007/",
+            "pubDate": "Sat, 21 Oct 2023 06:46:21 Z",
+            "title": "sbox-scenestaging"
         }
     ]
 }
