@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add SceneModel.MergeBones( SceneModel other )",
+            "guid": "https://commits.facepunch.com/463029/",
+            "pubDate": "Sat, 21 Oct 2023 14:54:22 Z",
+            "title": "sbox"
+        },
+        {
             "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463028/",
             "pubDate": "Sat, 21 Oct 2023 13:35:56 Z",
@@ -292,12 +298,6 @@
             "description": "DraculaMask fits over a bandana",
             "guid": "https://commits.facepunch.com/462980/",
             "pubDate": "Fri, 20 Oct 2023 20:21:36 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "frankenstein buffs, light vs heavy is more apparent\nincreased base frankenstein health from 100 to 150",
-            "guid": "https://commits.facepunch.com/462979/",
-            "pubDate": "Fri, 20 Oct 2023 19:33:11 Z",
             "title": "rust_reboot"
         }
     ]
