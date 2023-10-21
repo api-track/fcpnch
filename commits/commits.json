@@ -103,6 +103,12 @@
             "title": "rust_reboot"
         },
         {
+            "description": "many small changes\nfire/poison damage stat includes overall dmg mult\nfix reroll sfx, balance, etc\nlevel earliest upgrade\npacifist barrel upgrade\nlevelupexisting fix",
+            "guid": "https://commits.facepunch.com/463018/",
+            "pubDate": "Sat, 21 Oct 2023 01:35:19 Z",
+            "title": "sbox-sausagesurvivors2"
+        },
+        {
             "description": "Error list title fix",
             "guid": "https://commits.facepunch.com/463000/",
             "pubDate": "Sat, 21 Oct 2023 00:47:30 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/462970/",
             "pubDate": "Fri, 20 Oct 2023 14:50:30 Z",
             "title": "ActionJigs"
-        },
-        {
-            "description": "Add AnimatedModelComponent\nAdd SetAnimParameter functions for AnimatedModelComponent\nAdd CitizenAnimation component\nRemove debug\nUpdate AnimatedModelComponent with new getters for parameters",
-            "guid": "https://commits.facepunch.com/462968/",
-            "pubDate": "Fri, 20 Oct 2023 14:49:11 Z",
-            "title": "sbox-scenestaging"
         }
     ]
 }
