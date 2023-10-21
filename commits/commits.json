@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/463011/",
+            "pubDate": "Sat, 21 Oct 2023 10:53:47 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fix joint and body double delete",
             "guid": "https://commits.facepunch.com/463010/",
             "pubDate": "Sat, 21 Oct 2023 10:46:35 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/462962/",
             "pubDate": "Fri, 20 Oct 2023 14:02:00 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Icon fixes",
-            "guid": "https://commits.facepunch.com/462961/",
-            "pubDate": "Fri, 20 Oct 2023 13:59:28 Z",
-            "title": "sbox-scenestaging"
         }
     ]
 }
