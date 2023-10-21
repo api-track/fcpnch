@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge form main",
+            "guid": "https://commits.facepunch.com/463025/",
+            "pubDate": "Sat, 21 Oct 2023 13:35:07 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/463026/",
+            "pubDate": "Sat, 21 Oct 2023 13:34:53 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "logo update\nphrases",
             "guid": "https://commits.facepunch.com/463024/",
             "pubDate": "Sat, 21 Oct 2023 13:29:41 Z",
@@ -287,18 +299,6 @@
             "guid": "https://commits.facepunch.com/462977/",
             "pubDate": "Fri, 20 Oct 2023 18:31:12 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "progress",
-            "guid": "https://commits.facepunch.com/462976/",
-            "pubDate": "Fri, 20 Oct 2023 18:29:43 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Stash PoC code for reference (temp)",
-            "guid": "https://commits.facepunch.com/462975/",
-            "pubDate": "Fri, 20 Oct 2023 17:50:07 Z",
-            "title": "sbox"
         }
     ]
 }
