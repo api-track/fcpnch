@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add `CheckParent` as an optional parameter to the `MaxDistance` attribue instead of manual checks\nApply `CheckParent` to Keylock as well",
+            "guid": "https://commits.facepunch.com/463038/",
+            "pubDate": "Sat, 21 Oct 2023 15:54:54 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Apply same fix to picking up the codelock",
             "guid": "https://commits.facepunch.com/463037/",
             "pubDate": "Sat, 21 Oct 2023 15:44:49 Z",
@@ -292,12 +298,6 @@
             "description": "World models for DraculaMask/DraculaCape",
             "guid": "https://commits.facepunch.com/462989/",
             "pubDate": "Fri, 20 Oct 2023 22:40:43 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Reworked the train signal lights and lighting.",
-            "guid": "https://commits.facepunch.com/462988/",
-            "pubDate": "Fri, 20 Oct 2023 22:02:52 Z",
             "title": "rust_reboot"
         }
     ]
