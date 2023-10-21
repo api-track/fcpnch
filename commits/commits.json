@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fix not being able to enter code on one side of the door, when you are too far away from the codelock but within interaction range of the door",
+            "guid": "https://commits.facepunch.com/463036/",
+            "pubDate": "Sat, 21 Oct 2023 15:39:58 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Merge from main -> horse_loot_panel_fix_2",
             "guid": "https://commits.facepunch.com/463035/",
             "pubDate": "Sat, 21 Oct 2023 15:26:44 Z",
@@ -292,12 +298,6 @@
             "description": "vampire stake loot spawn (small loot bag)\nbonus loot for scarecrow kills with vampire stake\nincreased chance of additional frankenstein parts",
             "guid": "https://commits.facepunch.com/462987/",
             "pubDate": "Fri, 20 Oct 2023 21:58:14 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "vampire stake sounds",
-            "guid": "https://commits.facepunch.com/462986/",
-            "pubDate": "Fri, 20 Oct 2023 21:42:59 Z",
             "title": "rust_reboot"
         }
     ]
