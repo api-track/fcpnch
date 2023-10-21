@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Major cleanup, simplification and optimization to mesh-based terrain shader support",
+            "guid": "https://commits.facepunch.com/463034/",
+            "pubDate": "Sat, 21 Oct 2023 15:23:43 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Add IO slots to spooky speaker to turn it on and off, no power required to run",
             "guid": "https://commits.facepunch.com/463033/",
             "pubDate": "Sat, 21 Oct 2023 15:22:48 Z",
@@ -291,12 +297,6 @@
         {
             "description": "Some cleanup\nNoOperation node definition",
             "guid": "https://commits.facepunch.com/462984/",
-            "pubDate": "Fri, 20 Oct 2023 21:42:09 Z",
-            "title": "ActionJigs"
-        },
-        {
-            "description": null,
-            "guid": "https://commits.facepunch.com/462985/",
             "pubDate": "Fri, 20 Oct 2023 21:42:09 Z",
             "title": "ActionJigs"
         }
