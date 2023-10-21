@@ -605,6 +605,12 @@
             "guid": "https://commits.facepunch.com/463013/",
             "pubDate": "Sat, 21 Oct 2023 10:54:29 Z",
             "title": "rust_reboot"
+        },
+        {
+            "description": "merge from rockingchair_remove_prints",
+            "guid": "https://commits.facepunch.com/463012/",
+            "pubDate": "Sat, 21 Oct 2023 10:54:15 Z",
+            "title": "rust_reboot"
         }
     ]
 }
