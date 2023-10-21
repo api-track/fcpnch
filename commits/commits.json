@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Update the animation in the editor too!",
+            "guid": "https://commits.facepunch.com/463032/",
+            "pubDate": "Sat, 21 Oct 2023 15:18:25 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
             "description": "Bone merge basics\nNicer bone merging\nThreaded animation updates by default\nUpdate particle scene",
             "guid": "https://commits.facepunch.com/463031/",
             "pubDate": "Sat, 21 Oct 2023 15:14:05 Z",
@@ -292,12 +298,6 @@
             "description": "Create seperate loot panels for horse equipment + stats & horse storage to support >6 storage per saddle bag\nIncrease saddle bag from 6 -> 12 storage slots again\nSplit into two inventories: one for equipment, one for storage (rather than first 4 slots being only for equipment and using clientside loot panel to pretend they are different)\nCreate a new menu option for \"animal storage\", keep examine as the equipment loot panel",
             "guid": "https://commits.facepunch.com/462983/",
             "pubDate": "Fri, 20 Oct 2023 21:27:50 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Dracula outfit viewmodel",
-            "guid": "https://commits.facepunch.com/462982/",
-            "pubDate": "Fri, 20 Oct 2023 21:17:29 Z",
             "title": "rust_reboot"
         }
     ]
