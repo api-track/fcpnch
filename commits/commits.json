@@ -623,6 +623,12 @@
             "guid": "https://commits.facepunch.com/463002/",
             "pubDate": "Sat, 21 Oct 2023 04:43:48 Z",
             "title": "rust_reboot"
+        },
+        {
+            "description": "Don't show \"Open Storage\" menu option if they have no saddle bags equipped / no storage slots",
+            "guid": "https://commits.facepunch.com/463001/",
+            "pubDate": "Sat, 21 Oct 2023 04:10:59 Z",
+            "title": "rust_reboot"
         }
     ]
 }
