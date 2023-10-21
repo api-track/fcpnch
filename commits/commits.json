@@ -617,6 +617,12 @@
             "guid": "https://commits.facepunch.com/463010/",
             "pubDate": "Sat, 21 Oct 2023 10:46:35 Z",
             "title": "sbox"
+        },
+        {
+            "description": "Remove SetOnBreakHandler, callback is always added\nSupport body gravity enable",
+            "guid": "https://commits.facepunch.com/463009/",
+            "pubDate": "Sat, 21 Oct 2023 09:24:23 Z",
+            "title": "sbox"
         }
     ]
 }
