@@ -629,6 +629,306 @@
             "guid": "https://commits.facepunch.com/462996/",
             "pubDate": "Fri, 20 Oct 2023 23:42:46 Z",
             "title": "ActionJigs"
+        },
+        {
+            "description": "Transplant new physics interface to master, start fixing up shit again\nRemove unused from iphysicsshape\nRemove unused from iphysicsjoint\nRemove unused from iphysicsbody\nAdd back AddHullShape and AddMeshShape that takes a transform, implement later.. these are needed now :(\nRemove unused from physicsaggregate\nRemove unused from physicsworld\nRemove unused from physicssystem\nRemove shared manifold and physics contact shite\nAdd intersection controller, kinda bullshit but needed\nGet game compiling again\nBuild new mesh and hull when adding transformed hulls and meshes\nSupport creating transformed hull from mesh (why tho?)\nLatest trace solver\nReturn default physics material when user data is null\nSetup joint break callback, break joint on body remove\nRemove SetOnBreakHandler, callback is always added\nSupport body gravity enable\nFix joint and body double delete\nShould be null checking this in water controller",
+            "guid": "https://commits.facepunch.com/463015/",
+            "pubDate": "Sat, 21 Oct 2023 10:57:07 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "Should be null checking this in water controller",
+            "guid": "https://commits.facepunch.com/463014/",
+            "pubDate": "Sat, 21 Oct 2023 10:55:30 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463013/",
+            "pubDate": "Sat, 21 Oct 2023 10:54:29 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from rockingchair_remove_prints",
+            "guid": "https://commits.facepunch.com/463012/",
+            "pubDate": "Sat, 21 Oct 2023 10:54:15 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/463011/",
+            "pubDate": "Sat, 21 Oct 2023 10:53:47 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Fix joint and body double delete",
+            "guid": "https://commits.facepunch.com/463010/",
+            "pubDate": "Sat, 21 Oct 2023 10:46:35 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "Remove SetOnBreakHandler, callback is always added\nSupport body gravity enable",
+            "guid": "https://commits.facepunch.com/463009/",
+            "pubDate": "Sat, 21 Oct 2023 09:24:23 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "Setup joint break callback, break joint on body remove",
+            "guid": "https://commits.facepunch.com/463008/",
+            "pubDate": "Sat, 21 Oct 2023 09:05:00 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "AnimatedModel creates and updates bone GameObjects (not the best perf right now, but I will address it)",
+            "guid": "https://commits.facepunch.com/463007/",
+            "pubDate": "Sat, 21 Oct 2023 06:46:21 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
+            "description": "Fix startup error\nPerformance scope animation update",
+            "guid": "https://commits.facepunch.com/463006/",
+            "pubDate": "Sat, 21 Oct 2023 06:20:25 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "Leaderboard backup, run #6821",
+            "guid": "https://commits.facepunch.com/463005/",
+            "pubDate": "Sat, 21 Oct 2023 06:06:48 Z",
+            "title": "chippy-backup"
+        },
+        {
+            "description": "AssetSystem: optimize FindByPath lookup\nOptimize GameResourceProcessor\nKeep __references ordered to avoid diff hell\nOptimize recursive WalkJsonTree",
+            "guid": "https://commits.facepunch.com/463004/",
+            "pubDate": "Sat, 21 Oct 2023 05:45:04 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "FPArms: updated weightlists\nFPArms: overhauled punching animgraph (still some things to iron out, but the core functionality works again at least)",
+            "guid": "https://commits.facepunch.com/463003/",
+            "pubDate": "Sat, 21 Oct 2023 05:22:00 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "Save the equipment & storage inventory separately in protobuf",
+            "guid": "https://commits.facepunch.com/463002/",
+            "pubDate": "Sat, 21 Oct 2023 04:43:48 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Don't show \"Open Storage\" menu option if they have no saddle bags equipped / no storage slots",
+            "guid": "https://commits.facepunch.com/463001/",
+            "pubDate": "Sat, 21 Oct 2023 04:10:59 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Error list title fix",
+            "guid": "https://commits.facepunch.com/463000/",
+            "pubDate": "Sat, 21 Oct 2023 00:47:30 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
+            "description": "Rerouting and other fixes",
+            "guid": "https://commits.facepunch.com/462999/",
+            "pubDate": "Sat, 21 Oct 2023 00:19:09 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
+            "description": "Rerouting fixes\nFixed handle config names for generic types",
+            "guid": "https://commits.facepunch.com/462998/",
+            "pubDate": "Sat, 21 Oct 2023 00:18:25 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "FireSignalExpression fix",
+            "guid": "https://commits.facepunch.com/462996/",
+            "pubDate": "Fri, 20 Oct 2023 23:42:46 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": null,
+            "guid": "https://commits.facepunch.com/462997/",
+            "pubDate": "Fri, 20 Oct 2023 23:42:46 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": null,
+            "guid": "https://commits.facepunch.com/462995/",
+            "pubDate": "Fri, 20 Oct 2023 23:30:34 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "Some safety when deserializing types",
+            "guid": "https://commits.facepunch.com/462994/",
+            "pubDate": "Fri, 20 Oct 2023 23:30:34 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "Fixed another generic type binding case",
+            "guid": "https://commits.facepunch.com/462993/",
+            "pubDate": "Fri, 20 Oct 2023 23:23:25 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "Fixed another generic type binding case",
+            "guid": "https://commits.facepunch.com/462992/",
+            "pubDate": "Fri, 20 Oct 2023 23:23:25 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": null,
+            "guid": "https://commits.facepunch.com/462991/",
+            "pubDate": "Fri, 20 Oct 2023 22:52:02 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "Fixed Nop node passing signals",
+            "guid": "https://commits.facepunch.com/462990/",
+            "pubDate": "Fri, 20 Oct 2023 22:52:02 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "World models for DraculaMask/DraculaCape",
+            "guid": "https://commits.facepunch.com/462989/",
+            "pubDate": "Fri, 20 Oct 2023 22:40:43 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Reworked the train signal lights and lighting.",
+            "guid": "https://commits.facepunch.com/462988/",
+            "pubDate": "Fri, 20 Oct 2023 22:02:52 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "vampire stake loot spawn (small loot bag)\nbonus loot for scarecrow kills with vampire stake\nincreased chance of additional frankenstein parts",
+            "guid": "https://commits.facepunch.com/462987/",
+            "pubDate": "Fri, 20 Oct 2023 21:58:14 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "vampire stake sounds",
+            "guid": "https://commits.facepunch.com/462986/",
+            "pubDate": "Fri, 20 Oct 2023 21:42:59 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Some cleanup\nNoOperation node definition",
+            "guid": "https://commits.facepunch.com/462984/",
+            "pubDate": "Fri, 20 Oct 2023 21:42:09 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": null,
+            "guid": "https://commits.facepunch.com/462985/",
+            "pubDate": "Fri, 20 Oct 2023 21:42:09 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "Create seperate loot panels for horse equipment + stats & horse storage to support >6 storage per saddle bag\nIncrease saddle bag from 6 -> 12 storage slots again\nSplit into two inventories: one for equipment, one for storage (rather than first 4 slots being only for equipment and using clientside loot panel to pretend they are different)\nCreate a new menu option for \"animal storage\", keep examine as the equipment loot panel",
+            "guid": "https://commits.facepunch.com/462983/",
+            "pubDate": "Fri, 20 Oct 2023 21:27:50 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Dracula outfit viewmodel",
+            "guid": "https://commits.facepunch.com/462982/",
+            "pubDate": "Fri, 20 Oct 2023 21:17:29 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "▋▄▍▉▉▊▊ ▋█▄▉█ █▋▊▇▅ ▍▋▌▇▄▅▉█▄▋ █▍ ▆█▌ ▄▆▋█, ▄▇▋▍ ▅▌▅▄▅▇▇ ██▅▆█▉, ▅▋▊▍▇▄█ ▌▆▌▅▉ ▋▇▆▄▆▇ ▋▅▋▊█ ▍▄▇ ▅▊▇",
+            "guid": "https://commits.facepunch.com/462981/",
+            "pubDate": "Fri, 20 Oct 2023 21:14:29 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "DraculaMask fits over a bandana",
+            "guid": "https://commits.facepunch.com/462980/",
+            "pubDate": "Fri, 20 Oct 2023 20:21:36 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "frankenstein buffs, light vs heavy is more apparent\nincreased base frankenstein health from 100 to 150",
+            "guid": "https://commits.facepunch.com/462979/",
+            "pubDate": "Fri, 20 Oct 2023 19:33:11 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Tweaked entrance heightmap to fix odd foliage placement",
+            "guid": "https://commits.facepunch.com/462978/",
+            "pubDate": "Fri, 20 Oct 2023 19:29:49 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "missing file",
+            "guid": "https://commits.facepunch.com/462977/",
+            "pubDate": "Fri, 20 Oct 2023 18:31:12 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "progress",
+            "guid": "https://commits.facepunch.com/462976/",
+            "pubDate": "Fri, 20 Oct 2023 18:29:43 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Stash PoC code for reference (temp)",
+            "guid": "https://commits.facepunch.com/462975/",
+            "pubDate": "Fri, 20 Oct 2023 17:50:07 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "lr300 holdtype override updates",
+            "guid": "https://commits.facepunch.com/462974/",
+            "pubDate": "Fri, 20 Oct 2023 17:06:01 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Squashed revert back to commit 052bf8ece71b6de44f62c108626c6444a936f90f\n\nGoing to tackle this stuff differently\nFix IPD calc, camera positioning, fix InchToMillimeter that was converting from mm to inch\nRemove compositor benchmark stuff, we're not using it at the minute\nTry GetLastPoses instead of GetTrackedDevicePoses - might not be the right call since we can use the latter to predict X ms ahead\nHalf IPD",
+            "guid": "https://commits.facepunch.com/462973/",
+            "pubDate": "Fri, 20 Oct 2023 16:23:40 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "updates to push gesture asset and gestures animator",
+            "guid": "https://commits.facepunch.com/462972/",
+            "pubDate": "Fri, 20 Oct 2023 16:19:12 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Dracula outfit lods",
+            "guid": "https://commits.facepunch.com/462971/",
+            "pubDate": "Fri, 20 Oct 2023 15:41:14 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Ensure parameters are ordered correctly",
+            "guid": "https://commits.facepunch.com/462969/",
+            "pubDate": "Fri, 20 Oct 2023 14:50:30 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": null,
+            "guid": "https://commits.facepunch.com/462970/",
+            "pubDate": "Fri, 20 Oct 2023 14:50:30 Z",
+            "title": "ActionJigs"
+        },
+        {
+            "description": "Add AnimatedModelComponent\nAdd SetAnimParameter functions for AnimatedModelComponent\nAdd CitizenAnimation component\nRemove debug\nUpdate AnimatedModelComponent with new getters for parameters",
+            "guid": "https://commits.facepunch.com/462968/",
+            "pubDate": "Fri, 20 Oct 2023 14:49:11 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
+            "description": "SceneModel can get anim parameters",
+            "guid": "https://commits.facepunch.com/462967/",
+            "pubDate": "Fri, 20 Oct 2023 14:47:46 Z",
+            "title": "sbox"
+        },
+        {
+            "description": "Merge from rail_network_link",
+            "guid": "https://commits.facepunch.com/462966/",
+            "pubDate": "Fri, 20 Oct 2023 14:06:35 Z",
+            "title": "rust_reboot"
         }
     ]
 }
