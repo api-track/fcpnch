@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Merge from main -> horse_loot_panel_fix_2",
+            "guid": "https://commits.facepunch.com/463035/",
+            "pubDate": "Sat, 21 Oct 2023 15:26:44 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Major cleanup, simplification and optimization to mesh-based terrain shader support",
             "guid": "https://commits.facepunch.com/463034/",
             "pubDate": "Sat, 21 Oct 2023 15:23:43 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/462986/",
             "pubDate": "Fri, 20 Oct 2023 21:42:59 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Some cleanup\nNoOperation node definition",
-            "guid": "https://commits.facepunch.com/462984/",
-            "pubDate": "Fri, 20 Oct 2023 21:42:09 Z",
-            "title": "ActionJigs"
         }
     ]
 }
