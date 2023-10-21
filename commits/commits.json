@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "logo update\nphrases",
+            "guid": "https://commits.facepunch.com/463024/",
+            "pubDate": "Sat, 21 Oct 2023 13:29:41 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "ActionJigCreated event",
             "guid": "https://commits.facepunch.com/463022/",
             "pubDate": "Sat, 21 Oct 2023 13:20:45 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/462975/",
             "pubDate": "Fri, 20 Oct 2023 17:50:07 Z",
             "title": "sbox"
-        },
-        {
-            "description": "lr300 holdtype override updates",
-            "guid": "https://commits.facepunch.com/462974/",
-            "pubDate": "Fri, 20 Oct 2023 17:06:01 Z",
-            "title": "rust_reboot"
         }
     ]
 }
