@@ -635,6 +635,12 @@
             "guid": "https://commits.facepunch.com/463006/",
             "pubDate": "Sat, 21 Oct 2023 06:20:25 Z",
             "title": "sbox"
+        },
+        {
+            "description": "AssetSystem: optimize FindByPath lookup\nOptimize GameResourceProcessor\nKeep __references ordered to avoid diff hell\nOptimize recursive WalkJsonTree",
+            "guid": "https://commits.facepunch.com/463004/",
+            "pubDate": "Sat, 21 Oct 2023 05:45:04 Z",
+            "title": "sbox"
         }
     ]
 }
