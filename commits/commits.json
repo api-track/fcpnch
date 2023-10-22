@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/463064/",
+            "pubDate": "Sun, 22 Oct 2023 16:52:51 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "▉▅▆▄▉ ▆▇▍▊ ▆▍█▋█▄▉▉▋ ▍▉▆▅ ▍▅▉ ▋▆▆▉▇▋█▄ ▆▇▍▍ ▆▋▉▄▊▄▇▇▉▆\n▋█▍▋█▅▌ ▅▇▅▄ ▉▋▄▅▇ ▆▉ ▉█▉▄▄▊▇▍█ █▉▅▊\n▌▍▉▉▋▉▉ ▇▆▅▅ ▍▌▌▋▍ ▉▍ ▆▋▌▌▅▋▊█ ▇██▋ + █▉▆▉▆▊ + ▆██▋ ▋▆▆▆▇▅▆▋▊▍\n▌▉▆▇▌▍▌ ▋▌▆▆ ▄▌▉▋▉\n▋▆▊▄▋▄█ ▉▄▊▉ ▌▇▉▆▊▌█ ▌▌▆▍▋▇, ▌█▊▅▉▊ ▇▋ ▉▌▇▍▄▉",
+            "guid": "https://commits.facepunch.com/463063/",
+            "pubDate": "Sun, 22 Oct 2023 16:52:11 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Add `ammoCount` to Item and fallback to the item's ammo count when inside a chest / locker / player inventory (other than hotbar)\nTrack all items on the server in `ItemManager.serverItems` dictionary so the item can be updated every time the `BaseProjectile` ammo is modified (normally it only can find item when inside player inventory)\nSave ammoCount in protobuf as an Int where 0 = null, 1 = 0, etc (since protobuf doesn't support nullable types)",
             "guid": "https://commits.facepunch.com/463062/",
             "pubDate": "Sun, 22 Oct 2023 16:10:32 Z",
@@ -287,18 +299,6 @@
             "guid": "https://commits.facepunch.com/463014/",
             "pubDate": "Sat, 21 Oct 2023 10:55:30 Z",
             "title": "sbox"
-        },
-        {
-            "description": "merge from main",
-            "guid": "https://commits.facepunch.com/463013/",
-            "pubDate": "Sat, 21 Oct 2023 10:54:29 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from rockingchair_remove_prints",
-            "guid": "https://commits.facepunch.com/463012/",
-            "pubDate": "Sat, 21 Oct 2023 10:54:15 Z",
-            "title": "rust_reboot"
         }
     ]
 }
