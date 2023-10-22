@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Offset and adjust entity bounds for wanted posters to fix not being interactable/visible on some building grades",
+            "guid": "https://commits.facepunch.com/463071/",
+            "pubDate": "Sun, 22 Oct 2023 22:33:14 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Set up wanted poster variants as skins",
             "guid": "https://commits.facepunch.com/463070/",
             "pubDate": "Sun, 22 Oct 2023 22:13:50 Z",
@@ -292,12 +298,6 @@
             "description": null,
             "guid": "https://commits.facepunch.com/463023/",
             "pubDate": "Sat, 21 Oct 2023 13:20:45 Z",
-            "title": "ActionJigs"
-        },
-        {
-            "description": null,
-            "guid": "https://commits.facepunch.com/463021/",
-            "pubDate": "Sat, 21 Oct 2023 12:58:04 Z",
             "title": "ActionJigs"
         }
     ]
