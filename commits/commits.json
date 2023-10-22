@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Leaderboard backup, run #6846",
+            "guid": "https://commits.facepunch.com/463054/",
+            "pubDate": "Sun, 22 Oct 2023 07:02:47 Z",
+            "title": "chippy-backup"
+        },
+        {
             "description": "Leaderboard backup, run #6845",
             "guid": "https://commits.facepunch.com/463053/",
             "pubDate": "Sun, 22 Oct 2023 06:07:24 Z",
@@ -292,12 +298,6 @@
             "description": "AssetSystem: optimize FindByPath lookup\nOptimize GameResourceProcessor\nKeep __references ordered to avoid diff hell\nOptimize recursive WalkJsonTree",
             "guid": "https://commits.facepunch.com/463004/",
             "pubDate": "Sat, 21 Oct 2023 05:45:04 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "FPArms: updated weightlists\nFPArms: overhauled punching animgraph (still some things to iron out, but the core functionality works again at least)",
-            "guid": "https://commits.facepunch.com/463003/",
-            "pubDate": "Sat, 21 Oct 2023 05:22:00 Z",
             "title": "sbox"
         }
     ]
