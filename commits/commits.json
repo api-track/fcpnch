@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463058/",
+            "pubDate": "Sun, 22 Oct 2023 14:16:59 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/463057/",
+            "pubDate": "Sun, 22 Oct 2023 14:16:47 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Leaderboard backup, run #6850",
             "guid": "https://commits.facepunch.com/463056/",
             "pubDate": "Sun, 22 Oct 2023 11:02:51 Z",
@@ -286,18 +298,6 @@
             "description": "Setup joint break callback, break joint on body remove",
             "guid": "https://commits.facepunch.com/463008/",
             "pubDate": "Sat, 21 Oct 2023 09:05:00 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "AnimatedModel creates and updates bone GameObjects (not the best perf right now, but I will address it)",
-            "guid": "https://commits.facepunch.com/463007/",
-            "pubDate": "Sat, 21 Oct 2023 06:46:21 Z",
-            "title": "sbox-scenestaging"
-        },
-        {
-            "description": "Fix startup error\nPerformance scope animation update",
-            "guid": "https://commits.facepunch.com/463006/",
-            "pubDate": "Sat, 21 Oct 2023 06:20:25 Z",
             "title": "sbox"
         }
     ]
