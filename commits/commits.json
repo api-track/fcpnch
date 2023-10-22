@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "legacy bow initial setup\nviewmodel, textures and materials",
+            "guid": "https://commits.facepunch.com/463061/",
+            "pubDate": "Sun, 22 Oct 2023 15:32:53 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463060/",
             "pubDate": "Sun, 22 Oct 2023 14:28:57 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463011/",
             "pubDate": "Sat, 21 Oct 2023 10:53:47 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Fix joint and body double delete",
-            "guid": "https://commits.facepunch.com/463010/",
-            "pubDate": "Sat, 21 Oct 2023 10:46:35 Z",
-            "title": "sbox"
         }
     ]
 }
