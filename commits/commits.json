@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "LOD adjustments for torch holder",
+            "guid": "https://commits.facepunch.com/463072/",
+            "pubDate": "Sun, 22 Oct 2023 23:29:49 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Offset and adjust entity bounds for wanted posters to fix not being interactable/visible on some building grades",
             "guid": "https://commits.facepunch.com/463071/",
             "pubDate": "Sun, 22 Oct 2023 22:33:14 Z",
@@ -291,12 +297,6 @@
         {
             "description": "ActionJigCreated event",
             "guid": "https://commits.facepunch.com/463022/",
-            "pubDate": "Sat, 21 Oct 2023 13:20:45 Z",
-            "title": "ActionJigs"
-        },
-        {
-            "description": null,
-            "guid": "https://commits.facepunch.com/463023/",
             "pubDate": "Sat, 21 Oct 2023 13:20:45 Z",
             "title": "ActionJigs"
         }
