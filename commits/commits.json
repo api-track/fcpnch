@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Leaderboard backup, run #6845",
+            "guid": "https://commits.facepunch.com/463053/",
+            "pubDate": "Sun, 22 Oct 2023 06:07:24 Z",
+            "title": "chippy-backup"
+        },
+        {
             "description": "▌▌▉▋ ▉▊██▆ ▆▌ ▌▆▋▇▊ ▍▍▊▇▋█▄▇█",
             "guid": "https://commits.facepunch.com/463052/",
             "pubDate": "Sun, 22 Oct 2023 01:47:44 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463003/",
             "pubDate": "Sat, 21 Oct 2023 05:22:00 Z",
             "title": "sbox"
-        },
-        {
-            "description": "Save the equipment & storage inventory separately in protobuf",
-            "guid": "https://commits.facepunch.com/463002/",
-            "pubDate": "Sat, 21 Oct 2023 04:43:48 Z",
-            "title": "rust_reboot"
         }
     ]
 }
