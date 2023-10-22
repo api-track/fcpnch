@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add `ammoCount` to Item and fallback to the item's ammo count when inside a chest / locker / player inventory (other than hotbar)\nTrack all items on the server in `ItemManager.serverItems` dictionary so the item can be updated every time the `BaseProjectile` ammo is modified (normally it only can find item when inside player inventory)\nSave ammoCount in protobuf as an Int where 0 = null, 1 = 0, etc (since protobuf doesn't support nullable types)",
+            "guid": "https://commits.facepunch.com/463062/",
+            "pubDate": "Sun, 22 Oct 2023 16:10:32 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "legacy bow initial setup\nviewmodel, textures and materials",
             "guid": "https://commits.facepunch.com/463061/",
             "pubDate": "Sun, 22 Oct 2023 15:32:53 Z",
@@ -292,12 +298,6 @@
             "description": "merge from rockingchair_remove_prints",
             "guid": "https://commits.facepunch.com/463012/",
             "pubDate": "Sat, 21 Oct 2023 10:54:15 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from halloween2023",
-            "guid": "https://commits.facepunch.com/463011/",
-            "pubDate": "Sat, 21 Oct 2023 10:53:47 Z",
             "title": "rust_reboot"
         }
     ]
