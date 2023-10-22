@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Leaderboard backup, run #6850",
+            "guid": "https://commits.facepunch.com/463056/",
+            "pubDate": "Sun, 22 Oct 2023 11:02:51 Z",
+            "title": "chippy-backup"
+        },
+        {
             "description": "Leaderboard backup, run #6847",
             "guid": "https://commits.facepunch.com/463055/",
             "pubDate": "Sun, 22 Oct 2023 08:02:59 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463006/",
             "pubDate": "Sat, 21 Oct 2023 06:20:25 Z",
             "title": "sbox"
-        },
-        {
-            "description": "Leaderboard backup, run #6821",
-            "guid": "https://commits.facepunch.com/463005/",
-            "pubDate": "Sat, 21 Oct 2023 06:06:48 Z",
-            "title": "chippy-backup"
         }
     ]
 }
