@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "▊▆▄▍▇ ▋▅▍▄▋▌▉▉▉▌▄ ▆▆▄▅▋▅ ▊▉ ▍▇▋ ▊▊▉▆█▊▇▋▅ ▆▍█▌ ▅▋▇▋█ ▄▊▌▌█▆",
+            "guid": "https://commits.facepunch.com/463067/",
+            "pubDate": "Sun, 22 Oct 2023 20:52:47 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "legacy bow texture resize \nworld model / lods \nintial prefab(s) setup",
             "guid": "https://commits.facepunch.com/463066/",
             "pubDate": "Sun, 22 Oct 2023 19:11:45 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463017/",
             "pubDate": "Sat, 21 Oct 2023 11:25:19 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Use Transform proxies instead of copying the transforms",
-            "guid": "https://commits.facepunch.com/463016/",
-            "pubDate": "Sat, 21 Oct 2023 11:21:24 Z",
-            "title": "sbox-scenestaging"
         }
     ]
 }
