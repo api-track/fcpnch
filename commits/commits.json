@@ -2,6 +2,18 @@
     "items": [
         {
             "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/463109/",
+            "pubDate": "Mon, 23 Oct 2023 10:37:44 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463108/",
+            "pubDate": "Mon, 23 Oct 2023 10:37:10 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463107/",
             "pubDate": "Mon, 23 Oct 2023 10:36:48 Z",
             "title": "rust_reboot"
@@ -286,18 +298,6 @@
             "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463060/",
             "pubDate": "Sun, 22 Oct 2023 14:28:57 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "█▍█▆▋▌",
-            "guid": "https://commits.facepunch.com/463059/",
-            "pubDate": "Sun, 22 Oct 2023 14:27:24 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from main",
-            "guid": "https://commits.facepunch.com/463058/",
-            "pubDate": "Sun, 22 Oct 2023 14:16:59 Z",
             "title": "rust_reboot"
         }
     ]
