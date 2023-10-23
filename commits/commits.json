@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Copied over WIP action graph editor\nWIP dynamic action graph nodes\nOnShoot example in TurretComponent\nNode error messages, GetRelevantNodes, property get / set\nLet TurretComponent.OnShoot handle setting the velocity\nHandleConfigs\nTweak how properties appear in node creation menu\nFixed getting relevant nodes for signals\nWIP property panel in action graph editor\nConstant node drawing tweaks\nSmall action graph editor fixes\nError list panel\n\nhttps://files.facepunch.com/ziks/2023-10-12/sbox-dev_75o6iDzzHZ.png\nFix error when clearing links\nStack trace integration for exceptions thrown by action jigs\nField get / set, sort nodes better\nInstance method nodes\nType selection drop down\nFleshed out type selector, now checks constraints\nPure attribute for some things that should be expression nodes\nComment nodes\nNode display tweaks\nIcon fixes\nRerouting and other fixes\nError list title fix\nAction link pulsing in editor",
+            "guid": "https://commits.facepunch.com/463100/",
+            "pubDate": "Mon, 23 Oct 2023 09:20:29 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
             "description": "Increased Wanted Posters Scale",
             "guid": "https://commits.facepunch.com/463099/",
             "pubDate": "Mon, 23 Oct 2023 09:00:27 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463051/",
             "pubDate": "Sat, 21 Oct 2023 22:55:52 Z",
             "title": "sbox"
-        },
-        {
-            "description": "frontier_mirror variants, gibs, setup prefabs, icons. cleaned up temp folder",
-            "guid": "https://commits.facepunch.com/463050/",
-            "pubDate": "Sat, 21 Oct 2023 20:38:55 Z",
-            "title": "rust_reboot"
         }
     ]
 }
