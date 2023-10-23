@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Don't publish fbx files",
+            "guid": "https://commits.facepunch.com/463093/",
+            "pubDate": "Mon, 23 Oct 2023 08:15:23 Z",
+            "title": "sbox"
+        },
+        {
             "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463092/",
             "pubDate": "Mon, 23 Oct 2023 08:04:43 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463044/",
             "pubDate": "Sat, 21 Oct 2023 17:32:36 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Move scenes out of root\nMove components\nCleanup test scenes",
-            "guid": "https://commits.facepunch.com/463043/",
-            "pubDate": "Sat, 21 Oct 2023 17:27:30 Z",
-            "title": "sbox-scenestaging"
         }
     ]
 }
