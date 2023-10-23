@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Reduced rocking angle to stop player some clipping.\nAdjusted prevent building volume and deploy volume to prevent abuse.",
+            "guid": "https://commits.facepunch.com/463131/",
+            "pubDate": "Mon, 23 Oct 2023 14:30:06 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Json ignore / hide ShaderNode.DisplayInfo\nDynamically size input / output plugs\nFix updating plug types in shader graph",
             "guid": "https://commits.facepunch.com/463130/",
             "pubDate": "Mon, 23 Oct 2023 14:16:12 Z",
@@ -292,12 +298,6 @@
             "description": "Fixed guitar skins not working in third person",
             "guid": "https://commits.facepunch.com/463081/",
             "pubDate": "Mon, 23 Oct 2023 04:36:00 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Disable trophy gathering from butcher knife\nSetup new skinning knife\nFixed some decor dlc stuff being marked as researchable",
-            "guid": "https://commits.facepunch.com/463080/",
-            "pubDate": "Mon, 23 Oct 2023 04:20:11 Z",
             "title": "rust_reboot"
         }
     ]
