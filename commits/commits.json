@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/463107/",
+            "pubDate": "Mon, 23 Oct 2023 10:36:48 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "Steamitem ref for draculamask fix\nApplied Rust halloween logo update",
+            "guid": "https://commits.facepunch.com/463106/",
+            "pubDate": "Mon, 23 Oct 2023 10:36:22 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Merge fixes",
             "guid": "https://commits.facepunch.com/463105/",
             "pubDate": "Mon, 23 Oct 2023 10:02:33 Z",
@@ -287,18 +299,6 @@
             "guid": "https://commits.facepunch.com/463058/",
             "pubDate": "Sun, 22 Oct 2023 14:16:59 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "merge from halloween2023",
-            "guid": "https://commits.facepunch.com/463057/",
-            "pubDate": "Sun, 22 Oct 2023 14:16:47 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Leaderboard backup, run #6850",
-            "guid": "https://commits.facepunch.com/463056/",
-            "pubDate": "Sun, 22 Oct 2023 11:02:51 Z",
-            "title": "chippy-backup"
         }
     ]
 }
