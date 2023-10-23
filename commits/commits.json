@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed DraculaMask pickup highlight",
+            "guid": "https://commits.facepunch.com/463096/",
+            "pubDate": "Mon, 23 Oct 2023 08:34:22 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "manifest",
             "guid": "https://commits.facepunch.com/463095/",
             "pubDate": "Mon, 23 Oct 2023 08:28:17 Z",
@@ -292,12 +298,6 @@
             "description": "merge from main",
             "guid": "https://commits.facepunch.com/463047/",
             "pubDate": "Sat, 21 Oct 2023 17:33:15 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Holding shift while right clicking items into the repair bench will apply the last skin automatically\nAllow skinning <0.75s but don't play the effect if it occured under that delay",
-            "guid": "https://commits.facepunch.com/463046/",
-            "pubDate": "Sat, 21 Oct 2023 17:33:08 Z",
             "title": "rust_reboot"
         }
     ]
