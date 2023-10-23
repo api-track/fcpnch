@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463086/",
+            "pubDate": "Mon, 23 Oct 2023 07:04:23 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/463085/",
+            "pubDate": "Mon, 23 Oct 2023 07:04:01 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fixed dracula mask crafting",
             "guid": "https://commits.facepunch.com/463084/",
             "pubDate": "Mon, 23 Oct 2023 07:00:34 Z",
@@ -286,18 +298,6 @@
             "description": "Apply same fix to picking up the codelock",
             "guid": "https://commits.facepunch.com/463037/",
             "pubDate": "Sat, 21 Oct 2023 15:44:49 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Fix not being able to enter code on one side of the door, when you are too far away from the codelock but within interaction range of the door",
-            "guid": "https://commits.facepunch.com/463036/",
-            "pubDate": "Sat, 21 Oct 2023 15:39:58 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Merge from main -> horse_loot_panel_fix_2",
-            "guid": "https://commits.facepunch.com/463035/",
-            "pubDate": "Sat, 21 Oct 2023 15:26:44 Z",
             "title": "rust_reboot"
         }
     ]
