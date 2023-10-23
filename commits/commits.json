@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fix not being able to drop on a reroute node",
+            "guid": "https://commits.facepunch.com/463139/",
+            "pubDate": "Mon, 23 Oct 2023 15:46:12 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Keep backpack panel open when selecting items inside the backpack",
             "guid": "https://commits.facepunch.com/463138/",
             "pubDate": "Mon, 23 Oct 2023 15:24:20 Z",
@@ -292,12 +298,6 @@
             "description": "merge from main",
             "guid": "https://commits.facepunch.com/463089/",
             "pubDate": "Mon, 23 Oct 2023 07:38:45 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from base_decor_DLC",
-            "guid": "https://commits.facepunch.com/463088/",
-            "pubDate": "Mon, 23 Oct 2023 07:38:30 Z",
             "title": "rust_reboot"
         }
     ]
