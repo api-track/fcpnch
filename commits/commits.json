@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "HasAttribute non generic\nCustomEditorAttribute has WithAllAttributes property\nName the bodygroups in citizen\nAdd Model.BodyParts, obsolete all the old accessors",
+            "guid": "https://commits.facepunch.com/463118/",
+            "pubDate": "Mon, 23 Oct 2023 12:26:28 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Add an idle transition post kick anim so it doesn't just stop and adjust gesture duration so it doesn't end early\nImproves the snapping, still not 100%",
             "guid": "https://commits.facepunch.com/463116/",
             "pubDate": "Mon, 23 Oct 2023 12:18:54 Z",
@@ -292,12 +298,6 @@
             "description": "▅▉▋▅▌ ▊▊█▆▅▊ ▇▆▄▉▊▊▌▅▉▍█",
             "guid": "https://commits.facepunch.com/463068/",
             "pubDate": "Sun, 22 Oct 2023 20:54:00 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "▊▆▄▍▇ ▋▅▍▄▋▌▉▉▉▌▄ ▆▆▄▅▋▅ ▊▉ ▍▇▋ ▊▊▉▆█▊▇▋▅ ▆▍█▌ ▅▋▇▋█ ▄▊▌▌█▆",
-            "guid": "https://commits.facepunch.com/463067/",
-            "pubDate": "Sun, 22 Oct 2023 20:52:47 Z",
             "title": "rust_reboot"
         }
     ]
