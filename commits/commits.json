@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Save chair starting y in protobuf",
+            "guid": "https://commits.facepunch.com/463136/",
+            "pubDate": "Mon, 23 Oct 2023 15:03:45 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "merge from main -> backpacks",
             "guid": "https://commits.facepunch.com/463135/",
             "pubDate": "Mon, 23 Oct 2023 14:55:15 Z",
@@ -292,12 +298,6 @@
             "description": "merge from main",
             "guid": "https://commits.facepunch.com/463086/",
             "pubDate": "Mon, 23 Oct 2023 07:04:23 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from halloween2023",
-            "guid": "https://commits.facepunch.com/463085/",
-            "pubDate": "Mon, 23 Oct 2023 07:04:01 Z",
             "title": "rust_reboot"
         }
     ]
