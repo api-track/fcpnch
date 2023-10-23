@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Allow jackhammer to be repaired inside the workbench for free\nAdd `ItemModRepairable.canUseRepairBench` to control which `ItemModRepairable` can also be repaired in the repair bench\nPlay the air sound effect when it is repaired",
+            "guid": "https://commits.facepunch.com/463158/",
+            "pubDate": "Mon, 23 Oct 2023 22:05:35 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Updated VehicleLight script colours",
             "guid": "https://commits.facepunch.com/463157/",
             "pubDate": "Mon, 23 Oct 2023 22:01:10 Z",
@@ -292,12 +298,6 @@
             "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463107/",
             "pubDate": "Mon, 23 Oct 2023 10:36:48 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Steamitem ref for draculamask fix\nApplied Rust halloween logo update",
-            "guid": "https://commits.facepunch.com/463106/",
-            "pubDate": "Mon, 23 Oct 2023 10:36:22 Z",
             "title": "rust_reboot"
         }
     ]
