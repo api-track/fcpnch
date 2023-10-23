@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "fixed broken filepaths in mirror shader",
+            "guid": "https://commits.facepunch.com/463103/",
+            "pubDate": "Mon, 23 Oct 2023 09:31:16 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Skin update",
             "guid": "https://commits.facepunch.com/463101/",
             "pubDate": "Mon, 23 Oct 2023 09:22:18 Z",
@@ -292,12 +298,6 @@
             "description": "Leaderboard backup, run #6846",
             "guid": "https://commits.facepunch.com/463054/",
             "pubDate": "Sun, 22 Oct 2023 07:02:47 Z",
-            "title": "chippy-backup"
-        },
-        {
-            "description": "Leaderboard backup, run #6845",
-            "guid": "https://commits.facepunch.com/463053/",
-            "pubDate": "Sun, 22 Oct 2023 06:07:24 Z",
             "title": "chippy-backup"
         }
     ]
