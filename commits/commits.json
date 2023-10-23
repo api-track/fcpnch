@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Enabled the trophy drop on sharks",
+            "guid": "https://commits.facepunch.com/463077/",
+            "pubDate": "Mon, 23 Oct 2023 00:51:29 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Don't let torch holder clip through ceiling",
             "guid": "https://commits.facepunch.com/463076/",
             "pubDate": "Mon, 23 Oct 2023 00:43:44 Z",
@@ -292,12 +298,6 @@
             "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463028/",
             "pubDate": "Sat, 21 Oct 2023 13:35:56 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from halloween2023",
-            "guid": "https://commits.facepunch.com/463027/",
-            "pubDate": "Sat, 21 Oct 2023 13:35:38 Z",
             "title": "rust_reboot"
         }
     ]
