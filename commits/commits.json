@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Updated Wanted Poster Material to use different material mode, changed from Transparent to Cutout",
+            "guid": "https://commits.facepunch.com/463098/",
+            "pubDate": "Mon, 23 Oct 2023 08:47:04 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "set mirror prefabs and all children of prefab root to deployed layer",
             "guid": "https://commits.facepunch.com/463097/",
             "pubDate": "Mon, 23 Oct 2023 08:41:53 Z",
@@ -292,12 +298,6 @@
             "description": "Revert \"None of this is used, prove me wrong\"\n\nThis reverts commit 673e5e351dc372e2cdb4b91f3fefcea3b8fd9990.",
             "guid": "https://commits.facepunch.com/463049/",
             "pubDate": "Sat, 21 Oct 2023 19:04:44 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Action link pulsing in editor",
-            "guid": "https://commits.facepunch.com/463048/",
-            "pubDate": "Sat, 21 Oct 2023 17:56:23 Z",
             "title": "sbox"
         }
     ]
