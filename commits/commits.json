@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add an idle transition post kick anim so it doesn't just stop and adjust gesture duration so it doesn't end early\nImproves the snapping, still not 100%",
+            "guid": "https://commits.facepunch.com/463116/",
+            "pubDate": "Mon, 23 Oct 2023 12:18:54 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Moved the kick action on the double doors to a radial menu, requiring a long hold\nFits the action better, makes the player pause before opening which makes the gesture feel more natural",
             "guid": "https://commits.facepunch.com/463115/",
             "pubDate": "Mon, 23 Oct 2023 12:08:20 Z",
@@ -292,12 +298,6 @@
             "description": "legacy bow texture resize \nworld model / lods \nintial prefab(s) setup",
             "guid": "https://commits.facepunch.com/463066/",
             "pubDate": "Sun, 22 Oct 2023 19:11:45 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from main",
-            "guid": "https://commits.facepunch.com/463065/",
-            "pubDate": "Sun, 22 Oct 2023 16:53:03 Z",
             "title": "rust_reboot"
         }
     ]
