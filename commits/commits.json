@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Adjust wanted poster sizing to fit new models",
+            "guid": "https://commits.facepunch.com/463160/",
+            "pubDate": "Mon, 23 Oct 2023 23:07:47 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Cherry-pick more signal light changes -> Aux2",
             "guid": "https://commits.facepunch.com/463159/",
             "pubDate": "Mon, 23 Oct 2023 22:08:13 Z",
@@ -292,12 +298,6 @@
             "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463109/",
             "pubDate": "Mon, 23 Oct 2023 10:37:44 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from main",
-            "guid": "https://commits.facepunch.com/463108/",
-            "pubDate": "Mon, 23 Oct 2023 10:37:10 Z",
             "title": "rust_reboot"
         }
     ]
