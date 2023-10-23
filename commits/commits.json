@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add an random U offset to tiling hotspots UVs",
+            "guid": "https://commits.facepunch.com/463146/",
+            "pubDate": "Mon, 23 Oct 2023 18:53:29 Z",
+            "title": "sbox"
+        },
+        {
             "description": "▇▅▉▉▉▍▅▄▋▉ ▇█▅▄█▋",
             "guid": "https://commits.facepunch.com/463145/",
             "pubDate": "Mon, 23 Oct 2023 18:07:23 Z",
@@ -292,12 +298,6 @@
             "description": "Fixed DraculaMask pickup highlight",
             "guid": "https://commits.facepunch.com/463096/",
             "pubDate": "Mon, 23 Oct 2023 08:34:22 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "manifest",
-            "guid": "https://commits.facepunch.com/463095/",
-            "pubDate": "Mon, 23 Oct 2023 08:28:17 Z",
             "title": "rust_reboot"
         }
     ]
