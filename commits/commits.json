@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fix wanted poster screenshot sometimes including the local players clothing",
+            "guid": "https://commits.facepunch.com/463078/",
+            "pubDate": "Mon, 23 Oct 2023 03:15:40 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Enabled the trophy drop on sharks",
             "guid": "https://commits.facepunch.com/463077/",
             "pubDate": "Mon, 23 Oct 2023 00:51:29 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463029/",
             "pubDate": "Sat, 21 Oct 2023 14:54:22 Z",
             "title": "sbox"
-        },
-        {
-            "description": "merge from halloween2023",
-            "guid": "https://commits.facepunch.com/463028/",
-            "pubDate": "Sat, 21 Oct 2023 13:35:56 Z",
-            "title": "rust_reboot"
         }
     ]
 }
