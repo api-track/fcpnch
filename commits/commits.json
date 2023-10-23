@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add BodyPart.BoneName\nControlWidget supports wide mode\nAdded ControlWidget.ValueHash",
+            "guid": "https://commits.facepunch.com/463125/",
+            "pubDate": "Mon, 23 Oct 2023 13:14:42 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Leaderboard backup, run #6876",
             "guid": "https://commits.facepunch.com/463124/",
             "pubDate": "Mon, 23 Oct 2023 13:04:35 Z",
@@ -292,12 +298,6 @@
             "description": "Fixed a misaligned deploy volume on the fish trophy",
             "guid": "https://commits.facepunch.com/463075/",
             "pubDate": "Mon, 23 Oct 2023 00:34:47 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Fixed stag trophies not working",
-            "guid": "https://commits.facepunch.com/463074/",
-            "pubDate": "Mon, 23 Oct 2023 00:05:09 Z",
             "title": "rust_reboot"
         }
     ]
