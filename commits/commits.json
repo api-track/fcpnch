@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Allow unloading guns inside chests\nUpdate ItemIcon.selectedItem before calling OnInventoryUpdated() so that menu options update when your selected item changes",
+            "guid": "https://commits.facepunch.com/463133/",
+            "pubDate": "Mon, 23 Oct 2023 14:42:23 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "▊▇█▌ ▊▉▇▉▅▋",
             "guid": "https://commits.facepunch.com/463132/",
             "pubDate": "Mon, 23 Oct 2023 14:34:24 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463083/",
             "pubDate": "Mon, 23 Oct 2023 06:36:09 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Leaderboard backup, run #6869",
-            "guid": "https://commits.facepunch.com/463082/",
-            "pubDate": "Mon, 23 Oct 2023 06:07:24 Z",
-            "title": "chippy-backup"
         }
     ]
 }
