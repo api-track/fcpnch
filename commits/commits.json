@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed dracula mask crafting",
+            "guid": "https://commits.facepunch.com/463084/",
+            "pubDate": "Mon, 23 Oct 2023 07:00:34 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Mask now protects head instead of body",
             "guid": "https://commits.facepunch.com/463083/",
             "pubDate": "Mon, 23 Oct 2023 06:36:09 Z",
@@ -292,12 +298,6 @@
             "description": "Merge from main -> horse_loot_panel_fix_2",
             "guid": "https://commits.facepunch.com/463035/",
             "pubDate": "Sat, 21 Oct 2023 15:26:44 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Major cleanup, simplification and optimization to mesh-based terrain shader support",
-            "guid": "https://commits.facepunch.com/463034/",
-            "pubDate": "Sat, 21 Oct 2023 15:23:43 Z",
             "title": "rust_reboot"
         }
     ]
