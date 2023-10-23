@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Dracula mask now removes facial hair",
+            "guid": "https://commits.facepunch.com/463147/",
+            "pubDate": "Mon, 23 Oct 2023 19:26:48 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Add an random U offset to tiling hotspots UVs",
             "guid": "https://commits.facepunch.com/463146/",
             "pubDate": "Mon, 23 Oct 2023 18:53:29 Z",
@@ -292,12 +298,6 @@
             "description": "set mirror prefabs and all children of prefab root to deployed layer",
             "guid": "https://commits.facepunch.com/463097/",
             "pubDate": "Mon, 23 Oct 2023 08:41:53 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Fixed DraculaMask pickup highlight",
-            "guid": "https://commits.facepunch.com/463096/",
-            "pubDate": "Mon, 23 Oct 2023 08:34:22 Z",
             "title": "rust_reboot"
         }
     ]
