@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Mask now protects head instead of body",
+            "guid": "https://commits.facepunch.com/463083/",
+            "pubDate": "Mon, 23 Oct 2023 06:36:09 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Leaderboard backup, run #6869",
             "guid": "https://commits.facepunch.com/463082/",
             "pubDate": "Mon, 23 Oct 2023 06:07:24 Z",
@@ -292,12 +298,6 @@
             "description": "Major cleanup, simplification and optimization to mesh-based terrain shader support",
             "guid": "https://commits.facepunch.com/463034/",
             "pubDate": "Sat, 21 Oct 2023 15:23:43 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Add IO slots to spooky speaker to turn it on and off, no power required to run",
-            "guid": "https://commits.facepunch.com/463033/",
-            "pubDate": "Sat, 21 Oct 2023 15:22:48 Z",
             "title": "rust_reboot"
         }
     ]
