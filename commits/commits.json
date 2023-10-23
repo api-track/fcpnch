@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Minor edit to train signal lights, differentiate a little more between yellow and red light",
+            "guid": "https://commits.facepunch.com/463155/",
+            "pubDate": "Mon, 23 Oct 2023 21:26:29 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Cherry-pick new train signal light FX -> Aux2 (not merging rail_network_link directly as it recently merged from Main)",
             "guid": "https://commits.facepunch.com/463154/",
             "pubDate": "Mon, 23 Oct 2023 21:01:09 Z",
@@ -292,12 +298,6 @@
             "description": "Merge fixes",
             "guid": "https://commits.facepunch.com/463105/",
             "pubDate": "Mon, 23 Oct 2023 10:02:33 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from main",
-            "guid": "https://commits.facepunch.com/463104/",
-            "pubDate": "Mon, 23 Oct 2023 09:51:39 Z",
             "title": "rust_reboot"
         }
     ]
