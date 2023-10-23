@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Increased Wanted Posters Scale",
+            "guid": "https://commits.facepunch.com/463099/",
+            "pubDate": "Mon, 23 Oct 2023 09:00:27 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Updated Wanted Poster Material to use different material mode, changed from Transparent to Cutout",
             "guid": "https://commits.facepunch.com/463098/",
             "pubDate": "Mon, 23 Oct 2023 08:47:04 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463050/",
             "pubDate": "Sat, 21 Oct 2023 20:38:55 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Revert \"None of this is used, prove me wrong\"\n\nThis reverts commit 673e5e351dc372e2cdb4b91f3fefcea3b8fd9990.",
-            "guid": "https://commits.facepunch.com/463049/",
-            "pubDate": "Sat, 21 Oct 2023 19:04:44 Z",
-            "title": "sbox"
         }
     ]
 }
