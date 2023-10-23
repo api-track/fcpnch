@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Moved rocking chair sign check and zero check math functions to mathx.",
+            "guid": "https://commits.facepunch.com/463113/",
+            "pubDate": "Mon, 23 Oct 2023 11:24:53 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Use correct log channel",
             "guid": "https://commits.facepunch.com/463112/",
             "pubDate": "Mon, 23 Oct 2023 11:09:24 Z",
@@ -292,12 +298,6 @@
             "description": "▉▅▆▄▉ ▆▇▍▊ ▆▍█▋█▄▉▉▋ ▍▉▆▅ ▍▅▉ ▋▆▆▉▇▋█▄ ▆▇▍▍ ▆▋▉▄▊▄▇▇▉▆\n▋█▍▋█▅▌ ▅▇▅▄ ▉▋▄▅▇ ▆▉ ▉█▉▄▄▊▇▍█ █▉▅▊\n▌▍▉▉▋▉▉ ▇▆▅▅ ▍▌▌▋▍ ▉▍ ▆▋▌▌▅▋▊█ ▇██▋ + █▉▆▉▆▊ + ▆██▋ ▋▆▆▆▇▅▆▋▊▍\n▌▉▆▇▌▍▌ ▋▌▆▆ ▄▌▉▋▉\n▋▆▊▄▋▄█ ▉▄▊▉ ▌▇▉▆▊▌█ ▌▌▆▍▋▇, ▌█▊▅▉▊ ▇▋ ▉▌▇▍▄▉",
             "guid": "https://commits.facepunch.com/463063/",
             "pubDate": "Sun, 22 Oct 2023 16:52:11 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Add `ammoCount` to Item and fallback to the item's ammo count when inside a chest / locker / player inventory (other than hotbar)\nTrack all items on the server in `ItemManager.serverItems` dictionary so the item can be updated every time the `BaseProjectile` ammo is modified (normally it only can find item when inside player inventory)\nSave ammoCount in protobuf as an Int where 0 = null, 1 = 0, etc (since protobuf doesn't support nullable types)",
-            "guid": "https://commits.facepunch.com/463062/",
-            "pubDate": "Sun, 22 Oct 2023 16:10:32 Z",
             "title": "rust_reboot"
         }
     ]
