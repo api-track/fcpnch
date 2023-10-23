@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "▉▅▊▍▌▅▉▉▊▆▌▅ █▆▉▅▍▄▋ ▋▌▅▍▌ ▌ ▉▅█▉▊▋▉▅▌▄.",
+            "guid": "https://commits.facepunch.com/463128/",
+            "pubDate": "Mon, 23 Oct 2023 13:47:34 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "▍▍▍▋█▆▄▄▉▌▄█ ▋▋▌▉██▋ ▇▋▌▋▉ ▋▍▇▌▆▌▇ ▆▋ ▌▊▋▍▌ ▋▌▆ █▋▉▅▍▄",
             "guid": "https://commits.facepunch.com/463127/",
             "pubDate": "Mon, 23 Oct 2023 13:46:55 Z",
@@ -292,12 +298,6 @@
             "description": "Fix wanted poster screenshot sometimes including the local players clothing",
             "guid": "https://commits.facepunch.com/463078/",
             "pubDate": "Mon, 23 Oct 2023 03:15:40 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Enabled the trophy drop on sharks",
-            "guid": "https://commits.facepunch.com/463077/",
-            "pubDate": "Mon, 23 Oct 2023 00:51:29 Z",
             "title": "rust_reboot"
         }
     ]
