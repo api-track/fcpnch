@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "football shirt variation\n\nFootball shirt version of the Standard shirt + scifi armour colour variations",
+            "guid": "https://commits.facepunch.com/463162/",
+            "pubDate": "Mon, 23 Oct 2023 23:42:33 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Remove unused poster prefabs\nAdded some precautions to prevent the inventory screen affecting the screnshot process",
             "guid": "https://commits.facepunch.com/463161/",
             "pubDate": "Mon, 23 Oct 2023 23:15:16 Z",
@@ -292,12 +298,6 @@
             "description": "Use correct log channel",
             "guid": "https://commits.facepunch.com/463112/",
             "pubDate": "Mon, 23 Oct 2023 11:09:24 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Fix docs",
-            "guid": "https://commits.facepunch.com/463111/",
-            "pubDate": "Mon, 23 Oct 2023 11:07:26 Z",
             "title": "sbox"
         }
     ]
