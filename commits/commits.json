@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "set mask rarity to none",
+            "guid": "https://commits.facepunch.com/463134/",
+            "pubDate": "Mon, 23 Oct 2023 14:46:12 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Allow unloading guns inside chests\nUpdate ItemIcon.selectedItem before calling OnInventoryUpdated() so that menu options update when your selected item changes",
             "guid": "https://commits.facepunch.com/463133/",
             "pubDate": "Mon, 23 Oct 2023 14:42:23 Z",
@@ -292,12 +298,6 @@
             "description": "Fixed dracula mask crafting",
             "guid": "https://commits.facepunch.com/463084/",
             "pubDate": "Mon, 23 Oct 2023 07:00:34 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Mask now protects head instead of body",
-            "guid": "https://commits.facepunch.com/463083/",
-            "pubDate": "Mon, 23 Oct 2023 06:36:09 Z",
             "title": "rust_reboot"
         }
     ]
