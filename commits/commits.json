@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "Skin update",
+            "guid": "https://commits.facepunch.com/463101/",
+            "pubDate": "Mon, 23 Oct 2023 09:22:18 Z",
+            "title": "rust_skins"
+        },
+        {
+            "description": "Reference Facepunch.ActionJigs, NodeGraph refactor\nAllow references to Facepunch.ActionJigs in editor code\nMore plumbing for action editing\nUpdated ActionJigs\nSome more node types\nSupport deserializing system types if TypeLibrary is okay with them\nError messages in node tool tips\nAdded GraphView.GetRelevantNodes\nNode graph HandleConfig refactor\nAllow arbitrary nesting in node creation context menu\nDefault handle color tweak\nUpdate Facepunch.ActionJigs\nHotload: fix before / after constraints on upgrader ordering\nTypeLibrary.GetSerializedObject overload accepting a getter\nAdd [Flags] to DockProperty\nConstant nodes\nNode interface tweaks\nUpdate() node UI after Layout() calls\nUpdate ActionJigs\nTry to get nodes to redraw on change\nPost-rebase fixes I missed\nUpdated Facepunch.ActionJigs\nGraphView.CenterOnSelection\nAllow custom exception stack trace inspectors\nUpdate Facepunch.ActionJigs\nUpdate Facepunch.ActionJigs\nNull literal node\nCan get / set fields with nodes\nINode.CanClone, CanRemove\nPost-rebase fixes\nUpdate ActionJigs, expose some more reflection info\nSome more nodes\nSupport for comment nodes in Action graphs\nSkip HideInEditor properties in ControlSheets\nAction node display tweaks\nPlugIn respects ShowLabel\nRerouting fixes\nFixed handle config names for generic types\nAction link pulsing in editor",
+            "guid": "https://commits.facepunch.com/463102/",
+            "pubDate": "Mon, 23 Oct 2023 09:22:01 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Copied over WIP action graph editor\nWIP dynamic action graph nodes\nOnShoot example in TurretComponent\nNode error messages, GetRelevantNodes, property get / set\nLet TurretComponent.OnShoot handle setting the velocity\nHandleConfigs\nTweak how properties appear in node creation menu\nFixed getting relevant nodes for signals\nWIP property panel in action graph editor\nConstant node drawing tweaks\nSmall action graph editor fixes\nError list panel\n\nhttps://files.facepunch.com/ziks/2023-10-12/sbox-dev_75o6iDzzHZ.png\nFix error when clearing links\nStack trace integration for exceptions thrown by action jigs\nField get / set, sort nodes better\nInstance method nodes\nType selection drop down\nFleshed out type selector, now checks constraints\nPure attribute for some things that should be expression nodes\nComment nodes\nNode display tweaks\nIcon fixes\nRerouting and other fixes\nError list title fix\nAction link pulsing in editor",
             "guid": "https://commits.facepunch.com/463100/",
             "pubDate": "Mon, 23 Oct 2023 09:20:29 Z",
@@ -287,18 +299,6 @@
             "guid": "https://commits.facepunch.com/463053/",
             "pubDate": "Sun, 22 Oct 2023 06:07:24 Z",
             "title": "chippy-backup"
-        },
-        {
-            "description": "▌▌▉▋ ▉▊██▆ ▆▌ ▌▆▋▇▊ ▍▍▊▇▋█▄▇█",
-            "guid": "https://commits.facepunch.com/463052/",
-            "pubDate": "Sun, 22 Oct 2023 01:47:44 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Joint motors from desc",
-            "guid": "https://commits.facepunch.com/463051/",
-            "pubDate": "Sat, 21 Oct 2023 22:55:52 Z",
-            "title": "sbox"
         }
     ]
 }
