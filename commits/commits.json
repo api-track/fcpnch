@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add BodyGroupsControlWidget",
+            "guid": "https://commits.facepunch.com/463126/",
+            "pubDate": "Mon, 23 Oct 2023 13:46:01 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Add BodyPart.BoneName\nControlWidget supports wide mode\nAdded ControlWidget.ValueHash",
             "guid": "https://commits.facepunch.com/463125/",
             "pubDate": "Mon, 23 Oct 2023 13:14:42 Z",
@@ -292,12 +298,6 @@
             "description": "Don't let torch holder clip through ceiling",
             "guid": "https://commits.facepunch.com/463076/",
             "pubDate": "Mon, 23 Oct 2023 00:43:44 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Fixed a misaligned deploy volume on the fish trophy",
-            "guid": "https://commits.facepunch.com/463075/",
-            "pubDate": "Mon, 23 Oct 2023 00:34:47 Z",
             "title": "rust_reboot"
         }
     ]
