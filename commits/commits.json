@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Use correct log channel",
+            "guid": "https://commits.facepunch.com/463112/",
+            "pubDate": "Mon, 23 Oct 2023 11:09:24 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Fix docs",
             "guid": "https://commits.facepunch.com/463111/",
             "pubDate": "Mon, 23 Oct 2023 11:07:26 Z",
@@ -292,12 +298,6 @@
             "description": "Add `ammoCount` to Item and fallback to the item's ammo count when inside a chest / locker / player inventory (other than hotbar)\nTrack all items on the server in `ItemManager.serverItems` dictionary so the item can be updated every time the `BaseProjectile` ammo is modified (normally it only can find item when inside player inventory)\nSave ammoCount in protobuf as an Int where 0 = null, 1 = 0, etc (since protobuf doesn't support nullable types)",
             "guid": "https://commits.facepunch.com/463062/",
             "pubDate": "Sun, 22 Oct 2023 16:10:32 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "legacy bow initial setup\nviewmodel, textures and materials",
-            "guid": "https://commits.facepunch.com/463061/",
-            "pubDate": "Sun, 22 Oct 2023 15:32:53 Z",
             "title": "rust_reboot"
         }
     ]
