@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Leaderboard backup, run #6876",
+            "guid": "https://commits.facepunch.com/463124/",
+            "pubDate": "Mon, 23 Oct 2023 13:04:35 Z",
+            "title": "chippy-backup"
+        },
+        {
             "description": "Client compile fix",
             "guid": "https://commits.facepunch.com/463123/",
             "pubDate": "Mon, 23 Oct 2023 13:02:26 Z",
@@ -292,12 +298,6 @@
             "description": "Fixed stag trophies not working",
             "guid": "https://commits.facepunch.com/463074/",
             "pubDate": "Mon, 23 Oct 2023 00:05:09 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Subtract 88893 and apply LOD differently, broke a few edge cases",
-            "guid": "https://commits.facepunch.com/463073/",
-            "pubDate": "Sun, 22 Oct 2023 23:58:33 Z",
             "title": "rust_reboot"
         }
     ]
