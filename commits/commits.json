@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Cherry-pick new train signal light FX -> Aux2 (not merging rail_network_link directly as it recently merged from Main)",
+            "guid": "https://commits.facepunch.com/463154/",
+            "pubDate": "Mon, 23 Oct 2023 21:01:09 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Merge TrainSignals -> rail_network_link",
             "guid": "https://commits.facepunch.com/463153/",
             "pubDate": "Mon, 23 Oct 2023 20:47:19 Z",
@@ -292,12 +298,6 @@
             "description": "merge from main",
             "guid": "https://commits.facepunch.com/463104/",
             "pubDate": "Mon, 23 Oct 2023 09:51:39 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "fixed broken filepaths in mirror shader",
-            "guid": "https://commits.facepunch.com/463103/",
-            "pubDate": "Mon, 23 Oct 2023 09:31:16 Z",
             "title": "rust_reboot"
         }
     ]
