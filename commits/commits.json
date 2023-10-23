@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fix docs",
+            "guid": "https://commits.facepunch.com/463111/",
+            "pubDate": "Mon, 23 Oct 2023 11:07:26 Z",
+            "title": "sbox"
+        },
+        {
             "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463109/",
             "pubDate": "Mon, 23 Oct 2023 10:37:44 Z",
@@ -292,12 +298,6 @@
             "description": "legacy bow initial setup\nviewmodel, textures and materials",
             "guid": "https://commits.facepunch.com/463061/",
             "pubDate": "Sun, 22 Oct 2023 15:32:53 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from halloween2023",
-            "guid": "https://commits.facepunch.com/463060/",
-            "pubDate": "Sun, 22 Oct 2023 14:28:57 Z",
             "title": "rust_reboot"
         }
     ]
