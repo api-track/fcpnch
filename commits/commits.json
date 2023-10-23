@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/463092/",
+            "pubDate": "Mon, 23 Oct 2023 08:04:43 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from halloween2023",
+            "guid": "https://commits.facepunch.com/463091/",
+            "pubDate": "Mon, 23 Oct 2023 08:04:20 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "merge from main",
             "guid": "https://commits.facepunch.com/463090/",
             "pubDate": "Mon, 23 Oct 2023 07:38:59 Z",
@@ -287,18 +299,6 @@
             "guid": "https://commits.facepunch.com/463043/",
             "pubDate": "Sat, 21 Oct 2023 17:27:30 Z",
             "title": "sbox-scenestaging"
-        },
-        {
-            "description": "Deserialization fix",
-            "guid": "https://commits.facepunch.com/463041/",
-            "pubDate": "Sat, 21 Oct 2023 16:45:20 Z",
-            "title": "ActionJigs"
-        },
-        {
-            "description": null,
-            "guid": "https://commits.facepunch.com/463042/",
-            "pubDate": "Sat, 21 Oct 2023 16:45:20 Z",
-            "title": "ActionJigs"
         }
     ]
 }
