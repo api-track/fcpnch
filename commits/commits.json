@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed stag trophies not working",
+            "guid": "https://commits.facepunch.com/463074/",
+            "pubDate": "Mon, 23 Oct 2023 00:05:09 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Subtract 88893 and apply LOD differently, broke a few edge cases",
             "guid": "https://commits.facepunch.com/463073/",
             "pubDate": "Sun, 22 Oct 2023 23:58:33 Z",
@@ -292,12 +298,6 @@
             "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463026/",
             "pubDate": "Sat, 21 Oct 2023 13:34:53 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "logo update\nphrases",
-            "guid": "https://commits.facepunch.com/463024/",
-            "pubDate": "Sat, 21 Oct 2023 13:29:41 Z",
             "title": "rust_reboot"
         }
     ]
