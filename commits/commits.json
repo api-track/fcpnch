@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add SceneModel.MergeBones( SceneModel other )\nThis isn't needed\nNone of this is used, prove me wrong\nRevert \"None of this is used, prove me wrong\"\n\nThis reverts commit 673e5e351dc372e2cdb4b91f3fefcea3b8fd9990.\nDon't publish fbx files\nMerge branch 'master' into new-physics-merge",
+            "guid": "https://commits.facepunch.com/463094/",
+            "pubDate": "Mon, 23 Oct 2023 08:16:00 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Don't publish fbx files",
             "guid": "https://commits.facepunch.com/463093/",
             "pubDate": "Mon, 23 Oct 2023 08:15:23 Z",
@@ -292,12 +298,6 @@
             "description": "merge from main",
             "guid": "https://commits.facepunch.com/463045/",
             "pubDate": "Sat, 21 Oct 2023 17:33:01 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "frankenstein table craft fix",
-            "guid": "https://commits.facepunch.com/463044/",
-            "pubDate": "Sat, 21 Oct 2023 17:32:36 Z",
             "title": "rust_reboot"
         }
     ]
