@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Merge from main",
+            "guid": "https://commits.facepunch.com/463087/",
+            "pubDate": "Mon, 23 Oct 2023 07:22:29 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "merge from main",
             "guid": "https://commits.facepunch.com/463086/",
             "pubDate": "Mon, 23 Oct 2023 07:04:23 Z",
@@ -292,12 +298,6 @@
             "description": "Add `CheckParent` as an optional parameter to the `MaxDistance` attribue instead of manual checks\nApply `CheckParent` to Keylock as well",
             "guid": "https://commits.facepunch.com/463038/",
             "pubDate": "Sat, 21 Oct 2023 15:54:54 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Apply same fix to picking up the codelock",
-            "guid": "https://commits.facepunch.com/463037/",
-            "pubDate": "Sat, 21 Oct 2023 15:44:49 Z",
             "title": "rust_reboot"
         }
     ]
