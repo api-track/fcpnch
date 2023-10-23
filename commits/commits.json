@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed guitar skins not working in third person",
+            "guid": "https://commits.facepunch.com/463081/",
+            "pubDate": "Mon, 23 Oct 2023 04:36:00 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Disable trophy gathering from butcher knife\nSetup new skinning knife\nFixed some decor dlc stuff being marked as researchable",
             "guid": "https://commits.facepunch.com/463080/",
             "pubDate": "Mon, 23 Oct 2023 04:20:11 Z",
@@ -292,12 +298,6 @@
             "description": "Update the animation in the editor too!",
             "guid": "https://commits.facepunch.com/463032/",
             "pubDate": "Sat, 21 Oct 2023 15:18:25 Z",
-            "title": "sbox-scenestaging"
-        },
-        {
-            "description": "Bone merge basics\nNicer bone merging\nThreaded animation updates by default\nUpdate particle scene",
-            "guid": "https://commits.facepunch.com/463031/",
-            "pubDate": "Sat, 21 Oct 2023 15:14:05 Z",
             "title": "sbox-scenestaging"
         }
     ]
