@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463089/",
+            "pubDate": "Mon, 23 Oct 2023 07:38:45 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from base_decor_DLC",
+            "guid": "https://commits.facepunch.com/463088/",
+            "pubDate": "Mon, 23 Oct 2023 07:38:30 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Merge from main",
             "guid": "https://commits.facepunch.com/463087/",
             "pubDate": "Mon, 23 Oct 2023 07:22:29 Z",
@@ -287,18 +299,6 @@
             "guid": "https://commits.facepunch.com/463040/",
             "pubDate": "Sat, 21 Oct 2023 16:25:35 Z",
             "title": "sbox"
-        },
-        {
-            "description": "Only save number of storage slots for client, let server recalculate them on startup\nFix using phrase `Examine` instead of `Loot`",
-            "guid": "https://commits.facepunch.com/463039/",
-            "pubDate": "Sat, 21 Oct 2023 16:11:53 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Add `CheckParent` as an optional parameter to the `MaxDistance` attribue instead of manual checks\nApply `CheckParent` to Keylock as well",
-            "guid": "https://commits.facepunch.com/463038/",
-            "pubDate": "Sat, 21 Oct 2023 15:54:54 Z",
-            "title": "rust_reboot"
         }
     ]
 }
