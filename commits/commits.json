@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Skin bundle update",
+            "guid": "https://commits.facepunch.com/463120/",
+            "pubDate": "Mon, 23 Oct 2023 12:45:14 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Rocking chair increases adjusts position as rock angle increases to prevent clipping.",
             "guid": "https://commits.facepunch.com/463119/",
             "pubDate": "Mon, 23 Oct 2023 12:37:30 Z",
@@ -292,12 +298,6 @@
             "description": "Set up wanted poster variants as skins",
             "guid": "https://commits.facepunch.com/463070/",
             "pubDate": "Sun, 22 Oct 2023 22:13:50 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "▊▌█▇ ▆▉▄▍▇█▇ ▅▍ ▉▆▆▅█ ▅▌▄▊▍▆▅▊█ ▍▆▅▍ ▍███▆ ▍▇▋▍▊▇, ▉▄▉▌▆ ▌▄▋█▅▉.",
-            "guid": "https://commits.facepunch.com/463069/",
-            "pubDate": "Sun, 22 Oct 2023 21:05:45 Z",
             "title": "rust_reboot"
         }
     ]
