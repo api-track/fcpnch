@@ -25,6 +25,12 @@
             "title": "sbox"
         },
         {
+            "description": "CNavArea:MarkAs(Un)Blocked first argument is now optional\nFixed clientside ragdolls creating unnecessary bonemanip entities\n\nThis is a regression fix\nAdded classnames to \"C_BaseEntity::UnlinkFromHierarchy\" warning\nMade NPC:SetUnforgettable 2nd argument default to true\n\nAnd also made it actually work, whoopsie",
+            "guid": "https://commits.facepunch.com/463144/",
+            "pubDate": "Mon, 23 Oct 2023 16:26:30 Z",
+            "title": "garrysmod.main"
+        },
+        {
             "description": "Fix not being able to drop on a reroute node",
             "guid": "https://commits.facepunch.com/463139/",
             "pubDate": "Mon, 23 Oct 2023 15:46:12 Z",
@@ -292,12 +298,6 @@
             "description": "Add SceneModel.MergeBones( SceneModel other )\nThis isn't needed\nNone of this is used, prove me wrong\nRevert \"None of this is used, prove me wrong\"\n\nThis reverts commit 673e5e351dc372e2cdb4b91f3fefcea3b8fd9990.\nDon't publish fbx files\nMerge branch 'master' into new-physics-merge",
             "guid": "https://commits.facepunch.com/463094/",
             "pubDate": "Mon, 23 Oct 2023 08:16:00 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Don't publish fbx files",
-            "guid": "https://commits.facepunch.com/463093/",
-            "pubDate": "Mon, 23 Oct 2023 08:15:23 Z",
             "title": "sbox"
         }
     ]
