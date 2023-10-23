@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed a misaligned deploy volume on the fish trophy",
+            "guid": "https://commits.facepunch.com/463075/",
+            "pubDate": "Mon, 23 Oct 2023 00:34:47 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fixed stag trophies not working",
             "guid": "https://commits.facepunch.com/463074/",
             "pubDate": "Mon, 23 Oct 2023 00:05:09 Z",
@@ -292,12 +298,6 @@
             "description": "merge form main",
             "guid": "https://commits.facepunch.com/463025/",
             "pubDate": "Sat, 21 Oct 2023 13:35:07 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from halloween2023",
-            "guid": "https://commits.facepunch.com/463026/",
-            "pubDate": "Sat, 21 Oct 2023 13:34:53 Z",
             "title": "rust_reboot"
         }
     ]
