@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Validate indices are in range in AddCollisionMesh",
+            "guid": "https://commits.facepunch.com/463137/",
+            "pubDate": "Mon, 23 Oct 2023 15:20:46 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Save chair starting y in protobuf",
             "guid": "https://commits.facepunch.com/463136/",
             "pubDate": "Mon, 23 Oct 2023 15:03:45 Z",
@@ -292,12 +298,6 @@
             "description": "Merge from main",
             "guid": "https://commits.facepunch.com/463087/",
             "pubDate": "Mon, 23 Oct 2023 07:22:29 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from main",
-            "guid": "https://commits.facepunch.com/463086/",
-            "pubDate": "Mon, 23 Oct 2023 07:04:23 Z",
             "title": "rust_reboot"
         }
     ]
