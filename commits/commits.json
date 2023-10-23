@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "▊▇█▌ ▊▉▇▉▅▋",
+            "guid": "https://commits.facepunch.com/463132/",
+            "pubDate": "Mon, 23 Oct 2023 14:34:24 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Reduced rocking angle to stop player some clipping.\nAdjusted prevent building volume and deploy volume to prevent abuse.",
             "guid": "https://commits.facepunch.com/463131/",
             "pubDate": "Mon, 23 Oct 2023 14:30:06 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463082/",
             "pubDate": "Mon, 23 Oct 2023 06:07:24 Z",
             "title": "chippy-backup"
-        },
-        {
-            "description": "Fixed guitar skins not working in third person",
-            "guid": "https://commits.facepunch.com/463081/",
-            "pubDate": "Mon, 23 Oct 2023 04:36:00 Z",
-            "title": "rust_reboot"
         }
     ]
 }
