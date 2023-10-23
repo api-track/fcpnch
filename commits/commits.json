@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Json ignore / hide ShaderNode.DisplayInfo\nDynamically size input / output plugs\nFix updating plug types in shader graph",
+            "guid": "https://commits.facepunch.com/463130/",
+            "pubDate": "Mon, 23 Oct 2023 14:16:12 Z",
+            "title": "sbox"
+        },
+        {
             "description": "▄█▇▅▇▍▍ ▄▋▊▉▍▅ ▋▆ ▋▇▊▋▅▄ ▇▅▆▍▆▄▅/▋█▅▋▉▍",
             "guid": "https://commits.facepunch.com/463129/",
             "pubDate": "Mon, 23 Oct 2023 13:54:39 Z",
@@ -292,12 +298,6 @@
             "description": "Disable trophy gathering from butcher knife\nSetup new skinning knife\nFixed some decor dlc stuff being marked as researchable",
             "guid": "https://commits.facepunch.com/463080/",
             "pubDate": "Mon, 23 Oct 2023 04:20:11 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Temp categories on wanted posters",
-            "guid": "https://commits.facepunch.com/463079/",
-            "pubDate": "Mon, 23 Oct 2023 03:42:36 Z",
             "title": "rust_reboot"
         }
     ]
