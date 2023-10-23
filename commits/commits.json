@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "merge from main -> backpacks",
+            "guid": "https://commits.facepunch.com/463135/",
+            "pubDate": "Mon, 23 Oct 2023 14:55:15 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "set mask rarity to none",
             "guid": "https://commits.facepunch.com/463134/",
             "pubDate": "Mon, 23 Oct 2023 14:46:12 Z",
@@ -292,12 +298,6 @@
             "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463085/",
             "pubDate": "Mon, 23 Oct 2023 07:04:01 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Fixed dracula mask crafting",
-            "guid": "https://commits.facepunch.com/463084/",
-            "pubDate": "Mon, 23 Oct 2023 07:00:34 Z",
             "title": "rust_reboot"
         }
     ]
