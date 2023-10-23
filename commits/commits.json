@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Undo accidental GameUI commit",
+            "guid": "https://commits.facepunch.com/463156/",
+            "pubDate": "Mon, 23 Oct 2023 21:31:24 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Minor edit to train signal lights, differentiate a little more between yellow and red light",
             "guid": "https://commits.facepunch.com/463155/",
             "pubDate": "Mon, 23 Oct 2023 21:26:29 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463117/",
             "pubDate": "Mon, 23 Oct 2023 10:34:38 Z",
             "title": "sbox"
-        },
-        {
-            "description": "Merge fixes",
-            "guid": "https://commits.facepunch.com/463105/",
-            "pubDate": "Mon, 23 Oct 2023 10:02:33 Z",
-            "title": "rust_reboot"
         }
     ]
 }
