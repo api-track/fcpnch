@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "assigned correct double height material to standing mirror",
+            "guid": "https://commits.facepunch.com/463197/",
+            "pubDate": "Tue, 24 Oct 2023 11:41:51 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Separate teleportEveryone2me, teleportSleepers2me, teleportNonSleepers2me commands.",
             "guid": "https://commits.facepunch.com/463196/",
             "pubDate": "Tue, 24 Oct 2023 11:34:40 Z",
@@ -292,12 +298,6 @@
             "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463148/",
             "pubDate": "Mon, 23 Oct 2023 19:27:26 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Dracula mask now removes facial hair",
-            "guid": "https://commits.facepunch.com/463147/",
-            "pubDate": "Mon, 23 Oct 2023 19:26:48 Z",
             "title": "rust_reboot"
         }
     ]
