@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Merge from main",
+            "guid": "https://commits.facepunch.com/463231/",
+            "pubDate": "Tue, 24 Oct 2023 15:32:30 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Cherry picked 88688 => Fixed _ShadowMapTexture related errors in standard shader set",
             "guid": "https://commits.facepunch.com/463230/",
             "pubDate": "Tue, 24 Oct 2023 15:31:45 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463182/",
             "pubDate": "Tue, 24 Oct 2023 08:38:52 Z",
             "title": "sbox-scenestaging"
-        },
-        {
-            "description": "Add SceneModel.UpdateToBindPose()\nAdd SceneModel.OnFootstepEvent\nUpdate FootstepEvent\nGive citizen foot_L and foot_R attachments back, so footstep events work",
-            "guid": "https://commits.facepunch.com/463181/",
-            "pubDate": "Tue, 24 Oct 2023 08:33:58 Z",
-            "title": "sbox"
         }
     ]
 }
