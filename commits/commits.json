@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Leaderboard backup, run #6905",
+            "guid": "https://commits.facepunch.com/463239/",
+            "pubDate": "Tue, 24 Oct 2023 18:03:10 Z",
+            "title": "chippy-backup"
+        },
+        {
             "description": "Added concrete_trim clean + normal + damaged blend\n\ncorrected plywood_trim path",
             "guid": "https://commits.facepunch.com/463238/",
             "pubDate": "Tue, 24 Oct 2023 17:05:21 Z",
@@ -292,12 +298,6 @@
             "description": "merge from main",
             "guid": "https://commits.facepunch.com/463190/",
             "pubDate": "Tue, 24 Oct 2023 10:08:18 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from fix_codelock_rpc_distance",
-            "guid": "https://commits.facepunch.com/463189/",
-            "pubDate": "Tue, 24 Oct 2023 10:07:56 Z",
             "title": "rust_reboot"
         }
     ]
