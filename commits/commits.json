@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Added sanity checks to processing. \nSetup initial pipeline for error handling.",
+            "guid": "https://commits.facepunch.com/463222/",
+            "pubDate": "Tue, 24 Oct 2023 15:00:46 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Merge from main",
             "guid": "https://commits.facepunch.com/463221/",
             "pubDate": "Tue, 24 Oct 2023 14:52:08 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463173/",
             "pubDate": "Tue, 24 Oct 2023 06:02:08 Z",
             "title": "sbox"
-        },
-        {
-            "description": "Fixed MeshTerrainRoot running on server\nFind scrap and find metal blade tutorial steps will now accept any already in the inventory\nLower height of starter base, easier to get into without requiring jumps\nPing the campfire for the ignite stage",
-            "guid": "https://commits.facepunch.com/463172/",
-            "pubDate": "Tue, 24 Oct 2023 05:50:56 Z",
-            "title": "rust_reboot"
         }
     ]
 }
