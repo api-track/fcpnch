@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "HasAttribute non generic\nCustomEditorAttribute has WithAllAttributes property\nName the bodygroups in citizen\nAdd Model.BodyParts, obsolete all the old accessors\nAdd BodyPart.BoneName\nControlWidget supports wide mode\nAdded ControlWidget.ValueHash\nAdd BodyGroupsControlWidget\nValidate indices are in range in AddCollisionMesh\nGoalie Gloves\n\nInitial goalie gloves model for the football outfit!\nLODs coming asap\nAdd an random U offset to tiling hotspots UVs\nfootball shirt variation\n\nFootball shirt version of the Standard shirt + scifi armour colour variations\nGoalie Gloves adjustments + Black Rubber Gloves\n\nAlso some adjustments to the skinning of the chef shirt!\nAdd CSceneAnimatableObject.SetBindPose\nMore keyvalues binds\nDisable a ton of anim events (until someone tells me they were using it)\nAnim event callbacks\nAdd SceneModel.UpdateToBindPose()\nAdd SceneModel.OnFootstepEvent\nUpdate FootstepEvent\nGive citizen foot_L and foot_R attachments back, so footstep events work\nFix CUtlString copying crash in animevent_t\nAdd SceneModel.OnGenericEvent\nAdd SceneMode.OnSoundEvent\nUnmount/Re-mount Vpk After Map Compile (#1309)\n\n* Initial commit\n\n* Test mount/unmount VPK methods\n\n* Remove file extension when passing to Mount/UnmountVPK\n\n* Use ChangeExtension instead as apparently this preserves the path...\n\n* Fix IsVPKMounted check not working\n\n* Fix docs\n\n* Use correct log channel\n\n* Rename to OnPreCompileFinished + OnPostCompileFinished\nAdd Paint.MeasureText easy mode\nSpeed up PopupWidget fade in\nAdd ITag.SetFrom\nTransform Json serializable\nControlWidget don't fall through OnContextMenu by default\nMerge branch 'master' into new-physics-merge",
+            "guid": "https://commits.facepunch.com/463228/",
+            "pubDate": "Tue, 24 Oct 2023 15:29:38 Z",
+            "title": "sbox"
+        },
+        {
             "description": "▆▆▌▄▉▊▌ ▆▌▋▋█▉ ▋▌▍▉██▄/▄█▊█▉▆ ▆▌ ▌▇▆▊▍▇▊▅▋▄▌",
             "guid": "https://commits.facepunch.com/463227/",
             "pubDate": "Tue, 24 Oct 2023 15:22:35 Z",
@@ -292,12 +298,6 @@
             "description": "Updated Storage adaper ignores for storage barrels\nHidden storage barrel A\nImproved Storage barrel B C placement (still needs some tweaking)\nImproved Storage barrel B C storage adabpter locations\nFixed unable to place storage barrels on certain building grades\nFixed floating storage barrel\nStoage barrel icons",
             "guid": "https://commits.facepunch.com/463179/",
             "pubDate": "Tue, 24 Oct 2023 08:22:17 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from main",
-            "guid": "https://commits.facepunch.com/463178/",
-            "pubDate": "Tue, 24 Oct 2023 07:04:41 Z",
             "title": "rust_reboot"
         }
     ]
