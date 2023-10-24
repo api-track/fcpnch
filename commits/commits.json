@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Added \"Custom/Wall Poster\" shader working as direct deferred opaque overlay",
+            "guid": "https://commits.facepunch.com/463237/",
+            "pubDate": "Tue, 24 Oct 2023 16:46:43 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Silly mistake in PurgeShapes",
             "guid": "https://commits.facepunch.com/463236/",
             "pubDate": "Tue, 24 Oct 2023 16:42:47 Z",
@@ -292,12 +298,6 @@
             "description": "merge from spooky_speaker_io",
             "guid": "https://commits.facepunch.com/463188/",
             "pubDate": "Tue, 24 Oct 2023 10:07:35 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge form base_decor_DLC",
-            "guid": "https://commits.facepunch.com/463187/",
-            "pubDate": "Tue, 24 Oct 2023 10:06:46 Z",
             "title": "rust_reboot"
         }
     ]
