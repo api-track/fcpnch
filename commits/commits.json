@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Manually place hemp on tutorial island\nFixed navmesh generation errors",
+            "guid": "https://commits.facepunch.com/463164/",
+            "pubDate": "Tue, 24 Oct 2023 00:19:22 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Goalie Gloves adjustments + Black Rubber Gloves\n\nAlso some adjustments to the skinning of the chef shirt!",
             "guid": "https://commits.facepunch.com/463163/",
             "pubDate": "Tue, 24 Oct 2023 00:05:18 Z",
@@ -292,12 +298,6 @@
             "description": "Scene2prefab to fix broken materials in train tunnel entrances in monuments",
             "guid": "https://commits.facepunch.com/463114/",
             "pubDate": "Mon, 23 Oct 2023 12:05:36 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Moved rocking chair sign check and zero check math functions to mathx.",
-            "guid": "https://commits.facepunch.com/463113/",
-            "pubDate": "Mon, 23 Oct 2023 11:24:53 Z",
             "title": "rust_reboot"
         }
     ]
