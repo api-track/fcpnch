@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463203/",
+            "pubDate": "Tue, 24 Oct 2023 12:12:40 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from horse_loot_panel_fix_2",
+            "guid": "https://commits.facepunch.com/463202/",
+            "pubDate": "Tue, 24 Oct 2023 12:12:26 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "merge from repair_bench_apply_last_skin",
             "guid": "https://commits.facepunch.com/463201/",
             "pubDate": "Tue, 24 Oct 2023 12:10:00 Z",
@@ -286,18 +298,6 @@
             "description": "Cherry-pick new train signal light FX -> Aux2 (not merging rail_network_link directly as it recently merged from Main)",
             "guid": "https://commits.facepunch.com/463154/",
             "pubDate": "Mon, 23 Oct 2023 21:01:09 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Merge TrainSignals -> rail_network_link",
-            "guid": "https://commits.facepunch.com/463153/",
-            "pubDate": "Mon, 23 Oct 2023 20:47:19 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from main",
-            "guid": "https://commits.facepunch.com/463152/",
-            "pubDate": "Mon, 23 Oct 2023 19:48:17 Z",
             "title": "rust_reboot"
         }
     ]
