@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add SceneModel.OnGenericEvent",
+            "guid": "https://commits.facepunch.com/463184/",
+            "pubDate": "Tue, 24 Oct 2023 09:16:23 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Fix CUtlString copying crash in animevent_t",
             "guid": "https://commits.facepunch.com/463183/",
             "pubDate": "Tue, 24 Oct 2023 09:06:46 Z",
@@ -292,12 +298,6 @@
             "description": "merge from main -> backpacks",
             "guid": "https://commits.facepunch.com/463135/",
             "pubDate": "Mon, 23 Oct 2023 14:55:15 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "set mask rarity to none",
-            "guid": "https://commits.facepunch.com/463134/",
-            "pubDate": "Mon, 23 Oct 2023 14:46:12 Z",
             "title": "rust_reboot"
         }
     ]
