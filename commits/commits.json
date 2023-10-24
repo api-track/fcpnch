@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed single weapon rack gibs.",
+            "guid": "https://commits.facepunch.com/463193/",
+            "pubDate": "Tue, 24 Oct 2023 10:41:37 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "pacifist heal / assassin upgrades",
             "guid": "https://commits.facepunch.com/463192/",
             "pubDate": "Tue, 24 Oct 2023 10:36:21 Z",
@@ -292,12 +298,6 @@
             "description": "▇▉▅▅▊▆▆ ▄▉▋▌▌",
             "guid": "https://commits.facepunch.com/463143/",
             "pubDate": "Mon, 23 Oct 2023 16:56:40 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "▌▇█▍▆ ▇▋▉▇▇▅▅▄ ▉▇▌▌▋ ▅▅▋▉▇▋ ▆▉▅ ▅▇▍▍",
-            "guid": "https://commits.facepunch.com/463142/",
-            "pubDate": "Mon, 23 Oct 2023 16:55:10 Z",
             "title": "rust_reboot"
         }
     ]
