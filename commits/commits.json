@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463190/",
+            "pubDate": "Tue, 24 Oct 2023 10:08:18 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from fix_codelock_rpc_distance",
+            "guid": "https://commits.facepunch.com/463189/",
+            "pubDate": "Tue, 24 Oct 2023 10:07:56 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "merge from spooky_speaker_io",
             "guid": "https://commits.facepunch.com/463188/",
             "pubDate": "Tue, 24 Oct 2023 10:07:35 Z",
@@ -286,18 +298,6 @@
             "description": "Fixed ActionJig test",
             "guid": "https://commits.facepunch.com/463140/",
             "pubDate": "Mon, 23 Oct 2023 16:46:30 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "CNavArea:MarkAs(Un)Blocked first argument is now optional\nFixed clientside ragdolls creating unnecessary bonemanip entities\n\nThis is a regression fix\nAdded classnames to \"C_BaseEntity::UnlinkFromHierarchy\" warning\nMade NPC:SetUnforgettable 2nd argument default to true\n\nAnd also made it actually work, whoopsie",
-            "guid": "https://commits.facepunch.com/463144/",
-            "pubDate": "Mon, 23 Oct 2023 16:26:30 Z",
-            "title": "garrysmod.main"
-        },
-        {
-            "description": "Fix not being able to drop on a reroute node",
-            "guid": "https://commits.facepunch.com/463139/",
-            "pubDate": "Mon, 23 Oct 2023 15:46:12 Z",
             "title": "sbox"
         }
     ]
