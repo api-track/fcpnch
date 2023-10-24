@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Tweaked train tunnel lighting to make it closer to how it was on release\nReduced intensity of fill lights",
+            "guid": "https://commits.facepunch.com/463245/",
+            "pubDate": "Tue, 24 Oct 2023 19:13:31 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "GameTagsControlWidget is TagSetControlWidget, works on any ITagSet",
             "guid": "https://commits.facepunch.com/463244/",
             "pubDate": "Tue, 24 Oct 2023 18:43:24 Z",
@@ -292,12 +298,6 @@
             "description": "Separate teleportEveryone2me, teleportSleepers2me, teleportNonSleepers2me commands.",
             "guid": "https://commits.facepunch.com/463196/",
             "pubDate": "Tue, 24 Oct 2023 11:34:40 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "mirror_material double height for standing mirrors",
-            "guid": "https://commits.facepunch.com/463195/",
-            "pubDate": "Tue, 24 Oct 2023 11:11:41 Z",
             "title": "rust_reboot"
         }
     ]
