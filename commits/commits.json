@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed MeshTerrainRoot running on server\nFind scrap and find metal blade tutorial steps will now accept any already in the inventory\nLower height of starter base, easier to get into without requiring jumps\nPing the campfire for the ignite stage",
+            "guid": "https://commits.facepunch.com/463172/",
+            "pubDate": "Tue, 24 Oct 2023 05:50:56 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fixed negative collider size on fish trophy",
             "guid": "https://commits.facepunch.com/463171/",
             "pubDate": "Tue, 24 Oct 2023 05:40:43 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463123/",
             "pubDate": "Mon, 23 Oct 2023 13:02:26 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Rename to OnPreCompileFinished + OnPostCompileFinished",
-            "guid": "https://commits.facepunch.com/463122/",
-            "pubDate": "Mon, 23 Oct 2023 12:55:12 Z",
-            "title": "sbox"
         }
     ]
 }
