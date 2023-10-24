@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "pacifist heal / assassin upgrades",
+            "guid": "https://commits.facepunch.com/463192/",
+            "pubDate": "Tue, 24 Oct 2023 10:36:21 Z",
+            "title": "sbox-sausagesurvivors2"
+        },
+        {
             "description": "Improved single weapon rack placements.",
             "guid": "https://commits.facepunch.com/463191/",
             "pubDate": "Tue, 24 Oct 2023 10:30:18 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463142/",
             "pubDate": "Mon, 23 Oct 2023 16:55:10 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Goalie Gloves\n\nInitial goalie gloves model for the football outfit!\nLODs coming asap",
-            "guid": "https://commits.facepunch.com/463141/",
-            "pubDate": "Mon, 23 Oct 2023 16:50:54 Z",
-            "title": "sbox"
         }
     ]
 }
