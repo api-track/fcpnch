@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Silly mistake in PurgeShapes",
+            "guid": "https://commits.facepunch.com/463236/",
+            "pubDate": "Tue, 24 Oct 2023 16:42:47 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Support tools creating scaled meshes, create copy and make sure it gets deleted on shape delete",
             "guid": "https://commits.facepunch.com/463235/",
             "pubDate": "Tue, 24 Oct 2023 16:33:22 Z",
@@ -292,12 +298,6 @@
             "description": "merge form base_decor_DLC",
             "guid": "https://commits.facepunch.com/463187/",
             "pubDate": "Tue, 24 Oct 2023 10:06:46 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Fixed weapon racks not drawing bounds in the editor correctly.",
-            "guid": "https://commits.facepunch.com/463186/",
-            "pubDate": "Tue, 24 Oct 2023 09:54:34 Z",
             "title": "rust_reboot"
         }
     ]
