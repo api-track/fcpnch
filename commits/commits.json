@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Disabled Halloween\n- Disabled UI elements\n- Disabled Frank table craft\n- Disabled Dungeons\n- Disabled Spooky Sounds\n- Disabled NPC spawns\n- Restored collectables\n- Restored menu videos and logo\n-",
+            "guid": "https://commits.facepunch.com/463205/",
+            "pubDate": "Tue, 24 Oct 2023 12:32:29 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Added basic pass and resolution settings to render tool.",
             "guid": "https://commits.facepunch.com/463204/",
             "pubDate": "Tue, 24 Oct 2023 12:28:23 Z",
@@ -292,12 +298,6 @@
             "description": "Undo accidental GameUI commit",
             "guid": "https://commits.facepunch.com/463156/",
             "pubDate": "Mon, 23 Oct 2023 21:31:24 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Minor edit to train signal lights, differentiate a little more between yellow and red light",
-            "guid": "https://commits.facepunch.com/463155/",
-            "pubDate": "Mon, 23 Oct 2023 21:26:29 Z",
             "title": "rust_reboot"
         }
     ]
