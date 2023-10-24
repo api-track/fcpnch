@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "merge from repair_bench_apply_last_skin",
+            "guid": "https://commits.facepunch.com/463201/",
+            "pubDate": "Tue, 24 Oct 2023 12:10:00 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Unmount/Re-mount Vpk After Map Compile (#1309)\n\n* Initial commit\n\n* Test mount/unmount VPK methods\n\n* Remove file extension when passing to Mount/UnmountVPK\n\n* Use ChangeExtension instead as apparently this preserves the path...\n\n* Fix IsVPKMounted check not working\n\n* Fix docs\n\n* Use correct log channel\n\n* Rename to OnPreCompileFinished + OnPostCompileFinished",
             "guid": "https://commits.facepunch.com/463198/",
             "pubDate": "Tue, 24 Oct 2023 11:59:14 Z",
@@ -292,12 +298,6 @@
             "description": "merge from main",
             "guid": "https://commits.facepunch.com/463152/",
             "pubDate": "Mon, 23 Oct 2023 19:48:17 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from DroppedItemsOnVehicles",
-            "guid": "https://commits.facepunch.com/463151/",
-            "pubDate": "Mon, 23 Oct 2023 19:48:03 Z",
             "title": "rust_reboot"
         }
     ]
