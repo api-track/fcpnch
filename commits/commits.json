@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Tweaked concrete material inside the train tunnels / made a better concrete damage material",
+            "guid": "https://commits.facepunch.com/463246/",
+            "pubDate": "Tue, 24 Oct 2023 19:16:09 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Tweaked train tunnel lighting to make it closer to how it was on release\nReduced intensity of fill lights",
             "guid": "https://commits.facepunch.com/463245/",
             "pubDate": "Tue, 24 Oct 2023 19:13:31 Z",
@@ -292,12 +298,6 @@
             "description": "assigned correct double height material to standing mirror",
             "guid": "https://commits.facepunch.com/463197/",
             "pubDate": "Tue, 24 Oct 2023 11:41:51 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Separate teleportEveryone2me, teleportSleepers2me, teleportNonSleepers2me commands.",
-            "guid": "https://commits.facepunch.com/463196/",
-            "pubDate": "Tue, 24 Oct 2023 11:34:40 Z",
             "title": "rust_reboot"
         }
     ]
