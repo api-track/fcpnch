@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463176/",
+            "pubDate": "Tue, 24 Oct 2023 06:49:34 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from base_decor_DLC",
+            "guid": "https://commits.facepunch.com/463177/",
+            "pubDate": "Tue, 24 Oct 2023 06:49:20 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Leaderboard backup, run #6893",
             "guid": "https://commits.facepunch.com/463175/",
             "pubDate": "Tue, 24 Oct 2023 06:07:09 Z",
@@ -287,18 +299,6 @@
             "guid": "https://commits.facepunch.com/463128/",
             "pubDate": "Mon, 23 Oct 2023 13:47:34 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "▍▍▍▋█▆▄▄▉▌▄█ ▋▋▌▉██▋ ▇▋▌▋▉ ▋▍▇▌▆▌▇ ▆▋ ▌▊▋▍▌ ▋▌▆ █▋▉▅▍▄",
-            "guid": "https://commits.facepunch.com/463127/",
-            "pubDate": "Mon, 23 Oct 2023 13:46:55 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Add BodyGroupsControlWidget",
-            "guid": "https://commits.facepunch.com/463126/",
-            "pubDate": "Mon, 23 Oct 2023 13:46:01 Z",
-            "title": "sbox"
         }
     ]
 }
