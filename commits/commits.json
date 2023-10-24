@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Unmount/Re-mount Vpk After Map Compile (#1309)\n\n* Initial commit\n\n* Test mount/unmount VPK methods\n\n* Remove file extension when passing to Mount/UnmountVPK\n\n* Use ChangeExtension instead as apparently this preserves the path...\n\n* Fix IsVPKMounted check not working\n\n* Fix docs\n\n* Use correct log channel\n\n* Rename to OnPreCompileFinished + OnPostCompileFinished",
+            "guid": "https://commits.facepunch.com/463198/",
+            "pubDate": "Tue, 24 Oct 2023 11:59:14 Z",
+            "title": "sbox"
+        },
+        {
             "description": "assigned correct double height material to standing mirror",
             "guid": "https://commits.facepunch.com/463197/",
             "pubDate": "Tue, 24 Oct 2023 11:41:51 Z",
@@ -292,12 +298,6 @@
             "description": "merge from halloween2023",
             "guid": "https://commits.facepunch.com/463149/",
             "pubDate": "Mon, 23 Oct 2023 19:27:50 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from halloween2023",
-            "guid": "https://commits.facepunch.com/463148/",
-            "pubDate": "Mon, 23 Oct 2023 19:27:26 Z",
             "title": "rust_reboot"
         }
     ]
