@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "AnimatedModelComponent Footstep Event, DropObjectOnFootstep example component",
+            "guid": "https://commits.facepunch.com/463182/",
+            "pubDate": "Tue, 24 Oct 2023 08:38:52 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
             "description": "Add SceneModel.UpdateToBindPose()\nAdd SceneModel.OnFootstepEvent\nUpdate FootstepEvent\nGive citizen foot_L and foot_R attachments back, so footstep events work",
             "guid": "https://commits.facepunch.com/463181/",
             "pubDate": "Tue, 24 Oct 2023 08:33:58 Z",
@@ -292,12 +298,6 @@
             "description": "Allow unloading guns inside chests\nUpdate ItemIcon.selectedItem before calling OnInventoryUpdated() so that menu options update when your selected item changes",
             "guid": "https://commits.facepunch.com/463133/",
             "pubDate": "Mon, 23 Oct 2023 14:42:23 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "▊▇█▌ ▊▉▇▉▅▋",
-            "guid": "https://commits.facepunch.com/463132/",
-            "pubDate": "Mon, 23 Oct 2023 14:34:24 Z",
             "title": "rust_reboot"
         }
     ]
