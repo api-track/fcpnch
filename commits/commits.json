@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Split out stone nodes so they're not intersecting regular cliff geometry\nAdded loot barrels, more trees and some stumps\nBetter align map marker\nClean up loaded grass on the client",
+            "guid": "https://commits.facepunch.com/463169/",
+            "pubDate": "Tue, 24 Oct 2023 04:46:31 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fixed inventory rotation getting applied to wanted poster shots",
             "guid": "https://commits.facepunch.com/463168/",
             "pubDate": "Tue, 24 Oct 2023 03:27:03 Z",
@@ -292,12 +298,6 @@
             "description": "Skin bundle update",
             "guid": "https://commits.facepunch.com/463120/",
             "pubDate": "Mon, 23 Oct 2023 12:45:14 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Rocking chair increases adjusts position as rock angle increases to prevent clipping.",
-            "guid": "https://commits.facepunch.com/463119/",
-            "pubDate": "Mon, 23 Oct 2023 12:37:30 Z",
             "title": "rust_reboot"
         }
     ]
