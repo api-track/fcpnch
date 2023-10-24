@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Remove door from the dock\nClean up more old spawners\nPull metal ores out of cliffs\nShow pings for kill chickens mission",
+            "guid": "https://commits.facepunch.com/463170/",
+            "pubDate": "Tue, 24 Oct 2023 05:10:55 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Split out stone nodes so they're not intersecting regular cliff geometry\nAdded loot barrels, more trees and some stumps\nBetter align map marker\nClean up loaded grass on the client",
             "guid": "https://commits.facepunch.com/463169/",
             "pubDate": "Tue, 24 Oct 2023 04:46:31 Z",
@@ -292,12 +298,6 @@
             "description": "▌▅▋█▋▍▇▄▋▊ ▊▋▊▊▊ ▋▍ ▋▉▄▍█▋█ ▆▄▅▅ ▉▄▅ ▊▇▋▉ ▉▍▋▊█▊▋▆ ▌▍▊▍▊ ▅▊▉▉ ▆▊▋ █▇▇▆▊▌▆",
             "guid": "https://commits.facepunch.com/463121/",
             "pubDate": "Mon, 23 Oct 2023 12:53:38 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Skin bundle update",
-            "guid": "https://commits.facepunch.com/463120/",
-            "pubDate": "Mon, 23 Oct 2023 12:45:14 Z",
             "title": "rust_reboot"
         }
     ]
