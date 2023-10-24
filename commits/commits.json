@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Added rigged versions of all the fish types\nAdded simple fish animation",
+            "guid": "https://commits.facepunch.com/463254/",
+            "pubDate": "Tue, 24 Oct 2023 22:52:37 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Merge main -> experimental",
             "guid": "https://commits.facepunch.com/463253/",
             "pubDate": "Tue, 24 Oct 2023 22:44:11 Z",
@@ -292,12 +298,6 @@
             "description": "Disabled Halloween\n- Disabled UI elements\n- Disabled Frank table craft\n- Disabled Dungeons\n- Disabled Spooky Sounds\n- Disabled NPC spawns\n- Restored collectables\n- Restored menu videos and logo\n-",
             "guid": "https://commits.facepunch.com/463205/",
             "pubDate": "Tue, 24 Oct 2023 12:32:29 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Added basic pass and resolution settings to render tool.",
-            "guid": "https://commits.facepunch.com/463204/",
-            "pubDate": "Tue, 24 Oct 2023 12:28:23 Z",
             "title": "rust_reboot"
         }
     ]
