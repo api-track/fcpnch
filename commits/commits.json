@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463207/",
+            "pubDate": "Tue, 24 Oct 2023 12:34:15 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from halloween23_disable",
+            "guid": "https://commits.facepunch.com/463206/",
+            "pubDate": "Tue, 24 Oct 2023 12:33:49 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Disabled Halloween\n- Disabled UI elements\n- Disabled Frank table craft\n- Disabled Dungeons\n- Disabled Spooky Sounds\n- Disabled NPC spawns\n- Restored collectables\n- Restored menu videos and logo\n-",
             "guid": "https://commits.facepunch.com/463205/",
             "pubDate": "Tue, 24 Oct 2023 12:32:29 Z",
@@ -286,18 +298,6 @@
             "description": "Allow jackhammer to be repaired inside the workbench for free\nAdd `ItemModRepairable.canUseRepairBench` to control which `ItemModRepairable` can also be repaired in the repair bench\nPlay the air sound effect when it is repaired",
             "guid": "https://commits.facepunch.com/463158/",
             "pubDate": "Mon, 23 Oct 2023 22:05:35 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Updated VehicleLight script colours",
-            "guid": "https://commits.facepunch.com/463157/",
-            "pubDate": "Mon, 23 Oct 2023 22:01:10 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Undo accidental GameUI commit",
-            "guid": "https://commits.facepunch.com/463156/",
-            "pubDate": "Mon, 23 Oct 2023 21:31:24 Z",
             "title": "rust_reboot"
         }
     ]
