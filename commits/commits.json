@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed weapon racks not drawing bounds in the editor correctly.",
+            "guid": "https://commits.facepunch.com/463186/",
+            "pubDate": "Tue, 24 Oct 2023 09:54:34 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Add SceneMode.OnSoundEvent",
             "guid": "https://commits.facepunch.com/463185/",
             "pubDate": "Tue, 24 Oct 2023 09:24:28 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463137/",
             "pubDate": "Mon, 23 Oct 2023 15:20:46 Z",
             "title": "sbox"
-        },
-        {
-            "description": "Save chair starting y in protobuf",
-            "guid": "https://commits.facepunch.com/463136/",
-            "pubDate": "Mon, 23 Oct 2023 15:03:45 Z",
-            "title": "rust_reboot"
         }
     ]
 }
