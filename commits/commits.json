@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Goalie Gloves adjustments + Black Rubber Gloves\n\nAlso some adjustments to the skinning of the chef shirt!",
+            "guid": "https://commits.facepunch.com/463163/",
+            "pubDate": "Tue, 24 Oct 2023 00:05:18 Z",
+            "title": "sbox"
+        },
+        {
             "description": "football shirt variation\n\nFootball shirt version of the Standard shirt + scifi armour colour variations",
             "guid": "https://commits.facepunch.com/463162/",
             "pubDate": "Mon, 23 Oct 2023 23:42:33 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463113/",
             "pubDate": "Mon, 23 Oct 2023 11:24:53 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Use correct log channel",
-            "guid": "https://commits.facepunch.com/463112/",
-            "pubDate": "Mon, 23 Oct 2023 11:09:24 Z",
-            "title": "sbox"
         }
     ]
 }
