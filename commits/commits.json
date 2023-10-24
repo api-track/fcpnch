@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add \"wantedposter.autorefresh\" convar\nIf set to true, when a wanted poster is assigned it will regenerate that image every 5 seconds for faster visual iterating",
+            "guid": "https://commits.facepunch.com/463166/",
+            "pubDate": "Tue, 24 Oct 2023 01:30:35 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fixed bear not spawning correctly \nFixed rotation of map icon",
             "guid": "https://commits.facepunch.com/463165/",
             "pubDate": "Tue, 24 Oct 2023 01:15:16 Z",
@@ -292,12 +298,6 @@
             "description": "Add an idle transition post kick anim so it doesn't just stop and adjust gesture duration so it doesn't end early\nImproves the snapping, still not 100%",
             "guid": "https://commits.facepunch.com/463116/",
             "pubDate": "Mon, 23 Oct 2023 12:18:54 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Moved the kick action on the double doors to a radial menu, requiring a long hold\nFits the action better, makes the player pause before opening which makes the gesture feel more natural",
-            "guid": "https://commits.facepunch.com/463115/",
-            "pubDate": "Mon, 23 Oct 2023 12:08:20 Z",
             "title": "rust_reboot"
         }
     ]
