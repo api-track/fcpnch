@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fix CameraPhysicsDebug start pos\nUse BodyGroups selector (I hate this)",
+            "guid": "https://commits.facepunch.com/463174/",
+            "pubDate": "Tue, 24 Oct 2023 06:06:17 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
             "description": "Add CSceneAnimatableObject.SetBindPose\nMore keyvalues binds\nDisable a ton of anim events (until someone tells me they were using it)\nAnim event callbacks",
             "guid": "https://commits.facepunch.com/463173/",
             "pubDate": "Tue, 24 Oct 2023 06:02:08 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463125/",
             "pubDate": "Mon, 23 Oct 2023 13:14:42 Z",
             "title": "sbox"
-        },
-        {
-            "description": "Leaderboard backup, run #6876",
-            "guid": "https://commits.facepunch.com/463124/",
-            "pubDate": "Mon, 23 Oct 2023 13:04:35 Z",
-            "title": "chippy-backup"
         }
     ]
 }
