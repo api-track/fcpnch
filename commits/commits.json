@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "VR loop changes\nRemove more unused",
+            "guid": "https://commits.facepunch.com/463232/",
+            "pubDate": "Tue, 24 Oct 2023 15:52:11 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Merge from main",
             "guid": "https://commits.facepunch.com/463231/",
             "pubDate": "Tue, 24 Oct 2023 15:32:30 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463183/",
             "pubDate": "Tue, 24 Oct 2023 09:06:46 Z",
             "title": "sbox"
-        },
-        {
-            "description": "AnimatedModelComponent Footstep Event, DropObjectOnFootstep example component",
-            "guid": "https://commits.facepunch.com/463182/",
-            "pubDate": "Tue, 24 Oct 2023 08:38:52 Z",
-            "title": "sbox-scenestaging"
         }
     ]
 }
