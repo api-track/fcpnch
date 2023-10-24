@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "GameTagsControlWidget is TagSetControlWidget, works on any ITagSet",
+            "guid": "https://commits.facepunch.com/463244/",
+            "pubDate": "Tue, 24 Oct 2023 18:43:24 Z",
+            "title": "sbox-scenestaging"
+        },
+        {
             "description": "Add generic TagSet",
             "guid": "https://commits.facepunch.com/463243/",
             "pubDate": "Tue, 24 Oct 2023 18:42:15 Z",
@@ -292,12 +298,6 @@
             "description": "mirror_material double height for standing mirrors",
             "guid": "https://commits.facepunch.com/463195/",
             "pubDate": "Tue, 24 Oct 2023 11:11:41 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Setup hatchet & pickaxe for single weapon racks",
-            "guid": "https://commits.facepunch.com/463194/",
-            "pubDate": "Tue, 24 Oct 2023 11:06:28 Z",
             "title": "rust_reboot"
         }
     ]
