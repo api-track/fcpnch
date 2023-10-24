@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Cactuses no longer defeat scientists",
+            "guid": "https://commits.facepunch.com/463233/",
+            "pubDate": "Tue, 24 Oct 2023 16:10:53 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "VR loop changes\nRemove more unused",
             "guid": "https://commits.facepunch.com/463232/",
             "pubDate": "Tue, 24 Oct 2023 15:52:11 Z",
@@ -292,12 +298,6 @@
             "description": "Add SceneModel.OnGenericEvent",
             "guid": "https://commits.facepunch.com/463184/",
             "pubDate": "Tue, 24 Oct 2023 09:16:23 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Fix CUtlString copying crash in animevent_t",
-            "guid": "https://commits.facepunch.com/463183/",
-            "pubDate": "Tue, 24 Oct 2023 09:06:46 Z",
             "title": "sbox"
         }
     ]
