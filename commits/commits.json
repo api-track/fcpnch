@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add back CreateDebugSceneObject, hammer uses this to render collision",
+            "guid": "https://commits.facepunch.com/463257/",
+            "pubDate": "Tue, 24 Oct 2023 23:20:18 Z",
+            "title": "sbox"
+        },
+        {
             "description": "replaced kick anim in animator, added additional avatar",
             "guid": "https://commits.facepunch.com/463256/",
             "pubDate": "Tue, 24 Oct 2023 23:06:20 Z",
@@ -292,12 +298,6 @@
             "description": "Added gameobject enable/disable to render tool.\nAdded basic alpha pass settings with chooseable background settings.",
             "guid": "https://commits.facepunch.com/463208/",
             "pubDate": "Tue, 24 Oct 2023 12:47:00 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from main",
-            "guid": "https://commits.facepunch.com/463207/",
-            "pubDate": "Tue, 24 Oct 2023 12:34:15 Z",
             "title": "rust_reboot"
         }
     ]
