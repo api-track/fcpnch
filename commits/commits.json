@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add CSceneAnimatableObject.SetBindPose\nMore keyvalues binds\nDisable a ton of anim events (until someone tells me they were using it)\nAnim event callbacks",
+            "guid": "https://commits.facepunch.com/463173/",
+            "pubDate": "Tue, 24 Oct 2023 06:02:08 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Fixed MeshTerrainRoot running on server\nFind scrap and find metal blade tutorial steps will now accept any already in the inventory\nLower height of starter base, easier to get into without requiring jumps\nPing the campfire for the ignite stage",
             "guid": "https://commits.facepunch.com/463172/",
             "pubDate": "Tue, 24 Oct 2023 05:50:56 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463124/",
             "pubDate": "Mon, 23 Oct 2023 13:04:35 Z",
             "title": "chippy-backup"
-        },
-        {
-            "description": "Client compile fix",
-            "guid": "https://commits.facepunch.com/463123/",
-            "pubDate": "Mon, 23 Oct 2023 13:02:26 Z",
-            "title": "rust_reboot"
         }
     ]
 }
