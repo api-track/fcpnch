@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Potentially fixed size assertion/stride error when taking screenshot (make preview mesh update offscreen during snapshot render)",
+            "guid": "https://commits.facepunch.com/463251/",
+            "pubDate": "Tue, 24 Oct 2023 22:26:17 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Expose separate effect slot for poster/picture",
             "guid": "https://commits.facepunch.com/463250/",
             "pubDate": "Tue, 24 Oct 2023 21:52:25 Z",
@@ -292,12 +298,6 @@
             "description": "merge from horse_loot_panel_fix_2",
             "guid": "https://commits.facepunch.com/463202/",
             "pubDate": "Tue, 24 Oct 2023 12:12:26 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from repair_bench_apply_last_skin",
-            "guid": "https://commits.facepunch.com/463201/",
-            "pubDate": "Tue, 24 Oct 2023 12:10:00 Z",
             "title": "rust_reboot"
         }
     ]
