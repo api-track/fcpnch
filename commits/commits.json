@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "replaced kick anim in animator, added additional avatar",
+            "guid": "https://commits.facepunch.com/463256/",
+            "pubDate": "Tue, 24 Oct 2023 23:06:20 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Adjusted storage adaptor positioning on storage barrel to prevent adaptor deploy volumes intersecting with the collider of the barrel which was inadvertedly making invalid placements possible",
             "guid": "https://commits.facepunch.com/463255/",
             "pubDate": "Tue, 24 Oct 2023 22:57:53 Z",
@@ -292,12 +298,6 @@
             "description": "merge from main",
             "guid": "https://commits.facepunch.com/463207/",
             "pubDate": "Tue, 24 Oct 2023 12:34:15 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from halloween23_disable",
-            "guid": "https://commits.facepunch.com/463206/",
-            "pubDate": "Tue, 24 Oct 2023 12:33:49 Z",
             "title": "rust_reboot"
         }
     ]
