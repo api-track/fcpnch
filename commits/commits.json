@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Setup hatchet & pickaxe for single weapon racks",
+            "guid": "https://commits.facepunch.com/463194/",
+            "pubDate": "Tue, 24 Oct 2023 11:06:28 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fixed single weapon rack gibs.",
             "guid": "https://commits.facepunch.com/463193/",
             "pubDate": "Tue, 24 Oct 2023 10:41:37 Z",
@@ -292,12 +298,6 @@
             "description": "▇▅▉▉▉▍▅▄▋▉ ▇█▅▄█▋",
             "guid": "https://commits.facepunch.com/463145/",
             "pubDate": "Mon, 23 Oct 2023 18:07:23 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "▇▉▅▅▊▆▆ ▄▉▋▌▌",
-            "guid": "https://commits.facepunch.com/463143/",
-            "pubDate": "Mon, 23 Oct 2023 16:56:40 Z",
             "title": "rust_reboot"
         }
     ]
