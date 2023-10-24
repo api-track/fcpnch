@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Avoid having to rebuild hull to create transformed hull",
+            "guid": "https://commits.facepunch.com/463234/",
+            "pubDate": "Tue, 24 Oct 2023 16:12:18 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Cactuses no longer defeat scientists",
             "guid": "https://commits.facepunch.com/463233/",
             "pubDate": "Tue, 24 Oct 2023 16:10:53 Z",
@@ -292,12 +298,6 @@
             "description": "Add SceneMode.OnSoundEvent",
             "guid": "https://commits.facepunch.com/463185/",
             "pubDate": "Tue, 24 Oct 2023 09:24:28 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Add SceneModel.OnGenericEvent",
-            "guid": "https://commits.facepunch.com/463184/",
-            "pubDate": "Tue, 24 Oct 2023 09:16:23 Z",
             "title": "sbox"
         }
     ]
