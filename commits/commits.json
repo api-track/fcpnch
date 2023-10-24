@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Expose separate effect slot for poster/picture",
+            "guid": "https://commits.facepunch.com/463250/",
+            "pubDate": "Tue, 24 Oct 2023 21:52:25 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Scaffold out CProjectedDecalSceneObject\nAdd ProjectedDecalSceneObject to managed, register handle\nMore work getting new sceneobject to parity with old system (still invisible)\nGet rid of test code",
             "guid": "https://commits.facepunch.com/463249/",
             "pubDate": "Tue, 24 Oct 2023 20:28:50 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463201/",
             "pubDate": "Tue, 24 Oct 2023 12:10:00 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Unmount/Re-mount Vpk After Map Compile (#1309)\n\n* Initial commit\n\n* Test mount/unmount VPK methods\n\n* Remove file extension when passing to Mount/UnmountVPK\n\n* Use ChangeExtension instead as apparently this preserves the path...\n\n* Fix IsVPKMounted check not working\n\n* Fix docs\n\n* Use correct log channel\n\n* Rename to OnPreCompileFinished + OnPostCompileFinished",
-            "guid": "https://commits.facepunch.com/463198/",
-            "pubDate": "Tue, 24 Oct 2023 11:59:14 Z",
-            "title": "sbox"
         }
     ]
 }
