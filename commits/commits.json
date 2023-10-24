@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed inventory rotation getting applied to wanted poster shots",
+            "guid": "https://commits.facepunch.com/463168/",
+            "pubDate": "Tue, 24 Oct 2023 03:27:03 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Adjust refresh rate to 1s",
             "guid": "https://commits.facepunch.com/463167/",
             "pubDate": "Tue, 24 Oct 2023 01:32:01 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463119/",
             "pubDate": "Mon, 23 Oct 2023 12:37:30 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "HasAttribute non generic\nCustomEditorAttribute has WithAllAttributes property\nName the bodygroups in citizen\nAdd Model.BodyParts, obsolete all the old accessors",
-            "guid": "https://commits.facepunch.com/463118/",
-            "pubDate": "Mon, 23 Oct 2023 12:26:28 Z",
-            "title": "sbox"
         }
     ]
 }
