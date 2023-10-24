@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Remove unused\nCalculate predicted seconds to photons from now for tracked device poses\nUpdate HMD transform in various additional places, should help with latency\nFast path specifically for *hmd* pose retrieval, should help a tiny bit with latency\nVRSystem.Update refactor\nShorten GetPredictedSecondsToPhotonsFromNow to GetPredictedTime, use GetDeviceToAbsoluteTrackingPose for GetHmdMatrix",
+            "guid": "https://commits.facepunch.com/463214/",
+            "pubDate": "Tue, 24 Oct 2023 14:15:52 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Added scroll views to passes.\nTOD now only affects the pass you are interacting with.\nTOD & scroll view amount are now saved to each pass object.",
             "guid": "https://commits.facepunch.com/463213/",
             "pubDate": "Tue, 24 Oct 2023 14:12:26 Z",
@@ -292,12 +298,6 @@
             "description": "Fixed bear not spawning correctly \nFixed rotation of map icon",
             "guid": "https://commits.facepunch.com/463165/",
             "pubDate": "Tue, 24 Oct 2023 01:15:16 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Manually place hemp on tutorial island\nFixed navmesh generation errors",
-            "guid": "https://commits.facepunch.com/463164/",
-            "pubDate": "Tue, 24 Oct 2023 00:19:22 Z",
             "title": "rust_reboot"
         }
     ]
