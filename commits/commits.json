@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed bear not spawning correctly \nFixed rotation of map icon",
+            "guid": "https://commits.facepunch.com/463165/",
+            "pubDate": "Tue, 24 Oct 2023 01:15:16 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Manually place hemp on tutorial island\nFixed navmesh generation errors",
             "guid": "https://commits.facepunch.com/463164/",
             "pubDate": "Tue, 24 Oct 2023 00:19:22 Z",
@@ -292,12 +298,6 @@
             "description": "Moved the kick action on the double doors to a radial menu, requiring a long hold\nFits the action better, makes the player pause before opening which makes the gesture feel more natural",
             "guid": "https://commits.facepunch.com/463115/",
             "pubDate": "Mon, 23 Oct 2023 12:08:20 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Scene2prefab to fix broken materials in train tunnel entrances in monuments",
-            "guid": "https://commits.facepunch.com/463114/",
-            "pubDate": "Mon, 23 Oct 2023 12:05:36 Z",
             "title": "rust_reboot"
         }
     ]
