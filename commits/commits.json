@@ -7,6 +7,12 @@
             "title": "chippy-backup"
         },
         {
+            "description": "Fix CNavArea.MarkAsDamaging 2nd argument reading from the first\nSimplify some code\nSafe guard against invalid vector input to PhysObj functions\nOnScreenSizeChanged hooks get 2 new params - new sizes\nDelete player.phy\n\nWhat the hell is this file?\nFix airboat attachment name\nFix seemingly incorrect calculation of vehicle wheel total height\n\nfor rear axle\nRead settings/users.txt from MOD search path",
+            "guid": "https://commits.facepunch.com/463240/",
+            "pubDate": "Tue, 24 Oct 2023 17:41:35 Z",
+            "title": "garrysmod.main"
+        },
+        {
             "description": "Added concrete_trim clean + normal + damaged blend\n\ncorrected plywood_trim path",
             "guid": "https://commits.facepunch.com/463238/",
             "pubDate": "Tue, 24 Oct 2023 17:05:21 Z",
@@ -292,12 +298,6 @@
             "description": "Improved single weapon rack placements.",
             "guid": "https://commits.facepunch.com/463191/",
             "pubDate": "Tue, 24 Oct 2023 10:30:18 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from main",
-            "guid": "https://commits.facepunch.com/463190/",
-            "pubDate": "Tue, 24 Oct 2023 10:08:18 Z",
             "title": "rust_reboot"
         }
     ]
