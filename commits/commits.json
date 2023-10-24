@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Improved single weapon rack placements.",
+            "guid": "https://commits.facepunch.com/463191/",
+            "pubDate": "Tue, 24 Oct 2023 10:30:18 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "merge from main",
             "guid": "https://commits.facepunch.com/463190/",
             "pubDate": "Tue, 24 Oct 2023 10:08:18 Z",
@@ -292,12 +298,6 @@
             "description": "Goalie Gloves\n\nInitial goalie gloves model for the football outfit!\nLODs coming asap",
             "guid": "https://commits.facepunch.com/463141/",
             "pubDate": "Mon, 23 Oct 2023 16:50:54 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Fixed ActionJig test",
-            "guid": "https://commits.facepunch.com/463140/",
-            "pubDate": "Mon, 23 Oct 2023 16:46:30 Z",
             "title": "sbox"
         }
     ]
