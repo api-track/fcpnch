@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "merge form base_decor_DLC",
+            "guid": "https://commits.facepunch.com/463187/",
+            "pubDate": "Tue, 24 Oct 2023 10:06:46 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fixed weapon racks not drawing bounds in the editor correctly.",
             "guid": "https://commits.facepunch.com/463186/",
             "pubDate": "Tue, 24 Oct 2023 09:54:34 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463138/",
             "pubDate": "Mon, 23 Oct 2023 15:24:20 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Validate indices are in range in AddCollisionMesh",
-            "guid": "https://commits.facepunch.com/463137/",
-            "pubDate": "Mon, 23 Oct 2023 15:20:46 Z",
-            "title": "sbox"
         }
     ]
 }
