@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add SceneModel.UpdateToBindPose()\nAdd SceneModel.OnFootstepEvent\nUpdate FootstepEvent\nGive citizen foot_L and foot_R attachments back, so footstep events work",
+            "guid": "https://commits.facepunch.com/463181/",
+            "pubDate": "Tue, 24 Oct 2023 08:33:58 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Put ActionJigDebugger in its own file",
             "guid": "https://commits.facepunch.com/463180/",
             "pubDate": "Tue, 24 Oct 2023 08:22:19 Z",
@@ -292,12 +298,6 @@
             "description": "▊▇█▌ ▊▉▇▉▅▋",
             "guid": "https://commits.facepunch.com/463132/",
             "pubDate": "Mon, 23 Oct 2023 14:34:24 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Reduced rocking angle to stop player some clipping.\nAdjusted prevent building volume and deploy volume to prevent abuse.",
-            "guid": "https://commits.facepunch.com/463131/",
-            "pubDate": "Mon, 23 Oct 2023 14:30:06 Z",
             "title": "rust_reboot"
         }
     ]
