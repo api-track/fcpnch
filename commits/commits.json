@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Adjusted storage adaptor positioning on storage barrel to prevent adaptor deploy volumes intersecting with the collider of the barrel which was inadvertedly making invalid placements possible",
+            "guid": "https://commits.facepunch.com/463255/",
+            "pubDate": "Tue, 24 Oct 2023 22:57:53 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Added rigged versions of all the fish types\nAdded simple fish animation",
             "guid": "https://commits.facepunch.com/463254/",
             "pubDate": "Tue, 24 Oct 2023 22:52:37 Z",
@@ -292,12 +298,6 @@
             "description": "merge from halloween23_disable",
             "guid": "https://commits.facepunch.com/463206/",
             "pubDate": "Tue, 24 Oct 2023 12:33:49 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Disabled Halloween\n- Disabled UI elements\n- Disabled Frank table craft\n- Disabled Dungeons\n- Disabled Spooky Sounds\n- Disabled NPC spawns\n- Restored collectables\n- Restored menu videos and logo\n-",
-            "guid": "https://commits.facepunch.com/463205/",
-            "pubDate": "Tue, 24 Oct 2023 12:32:29 Z",
             "title": "rust_reboot"
         }
     ]
