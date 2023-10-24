@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Added concrete_trim clean + normal + damaged blend\n\ncorrected plywood_trim path",
+            "guid": "https://commits.facepunch.com/463238/",
+            "pubDate": "Tue, 24 Oct 2023 17:05:21 Z",
+            "title": "sbox-assets"
+        },
+        {
             "description": "Added \"Custom/Wall Poster\" shader working as direct deferred opaque overlay",
             "guid": "https://commits.facepunch.com/463237/",
             "pubDate": "Tue, 24 Oct 2023 16:46:43 Z",
@@ -292,12 +298,6 @@
             "description": "merge from fix_codelock_rpc_distance",
             "guid": "https://commits.facepunch.com/463189/",
             "pubDate": "Tue, 24 Oct 2023 10:07:56 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from spooky_speaker_io",
-            "guid": "https://commits.facepunch.com/463188/",
-            "pubDate": "Tue, 24 Oct 2023 10:07:35 Z",
             "title": "rust_reboot"
         }
     ]
