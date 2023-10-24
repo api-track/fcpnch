@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Add SceneMode.OnSoundEvent",
+            "guid": "https://commits.facepunch.com/463185/",
+            "pubDate": "Tue, 24 Oct 2023 09:24:28 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Add SceneModel.OnGenericEvent",
             "guid": "https://commits.facepunch.com/463184/",
             "pubDate": "Tue, 24 Oct 2023 09:16:23 Z",
@@ -292,12 +298,6 @@
             "description": "Save chair starting y in protobuf",
             "guid": "https://commits.facepunch.com/463136/",
             "pubDate": "Mon, 23 Oct 2023 15:03:45 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "merge from main -> backpacks",
-            "guid": "https://commits.facepunch.com/463135/",
-            "pubDate": "Mon, 23 Oct 2023 14:55:15 Z",
             "title": "rust_reboot"
         }
     ]
