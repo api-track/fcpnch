@@ -2,6 +2,12 @@
     "items": [
         {
             "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463178/",
+            "pubDate": "Tue, 24 Oct 2023 07:04:41 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from main",
             "guid": "https://commits.facepunch.com/463176/",
             "pubDate": "Tue, 24 Oct 2023 06:49:34 Z",
             "title": "rust_reboot"
@@ -292,12 +298,6 @@
             "description": "▄█▇▅▇▍▍ ▄▋▊▉▍▅ ▋▆ ▋▇▊▋▅▄ ▇▅▆▍▆▄▅/▋█▅▋▉▍",
             "guid": "https://commits.facepunch.com/463129/",
             "pubDate": "Mon, 23 Oct 2023 13:54:39 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "▉▅▊▍▌▅▉▉▊▆▌▅ █▆▉▅▍▄▋ ▋▌▅▍▌ ▌ ▉▅█▉▊▋▉▅▌▄.",
-            "guid": "https://commits.facepunch.com/463128/",
-            "pubDate": "Mon, 23 Oct 2023 13:47:34 Z",
             "title": "rust_reboot"
         }
     ]
