@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed network group assigning not working and throwing group inside errors for tutorial entities\nAlso fixes tutorial trees getting added to the global broadcast list",
+            "guid": "https://commits.facepunch.com/463276/",
+            "pubDate": "Wed, 25 Oct 2023 04:27:10 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Test map spawn pos move",
             "guid": "https://commits.facepunch.com/463275/",
             "pubDate": "Wed, 25 Oct 2023 04:03:13 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463227/",
             "pubDate": "Tue, 24 Oct 2023 15:22:35 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Update Facepunch.ActionGraphs",
-            "guid": "https://commits.facepunch.com/463226/",
-            "pubDate": "Tue, 24 Oct 2023 15:14:04 Z",
-            "title": "sbox"
         }
     ]
 }
