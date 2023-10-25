@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "description": "merge from main",
+            "guid": "https://commits.facepunch.com/463281/",
+            "pubDate": "Wed, 25 Oct 2023 06:46:00 Z",
+            "title": "rust_reboot"
+        },
+        {
+            "description": "merge from base_decor_DLC",
+            "guid": "https://commits.facepunch.com/463282/",
+            "pubDate": "Wed, 25 Oct 2023 06:45:43 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Leaderboard backup, run #6917",
             "guid": "https://commits.facepunch.com/463280/",
             "pubDate": "Wed, 25 Oct 2023 06:07:22 Z",
@@ -286,18 +298,6 @@
             "description": "Cactuses no longer defeat scientists",
             "guid": "https://commits.facepunch.com/463233/",
             "pubDate": "Tue, 24 Oct 2023 16:10:53 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "VR loop changes\nRemove more unused",
-            "guid": "https://commits.facepunch.com/463232/",
-            "pubDate": "Tue, 24 Oct 2023 15:52:11 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Merge from main",
-            "guid": "https://commits.facepunch.com/463231/",
-            "pubDate": "Tue, 24 Oct 2023 15:32:30 Z",
             "title": "rust_reboot"
         }
     ]
