@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Train splines have changed again. Regenerating them.",
+            "guid": "https://commits.facepunch.com/463266/",
+            "pubDate": "Wed, 25 Oct 2023 01:22:33 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fixed incorrect deploy volume on wanted poster, adjust bounds on skin 2+3",
             "guid": "https://commits.facepunch.com/463265/",
             "pubDate": "Wed, 25 Oct 2023 01:10:58 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463217/",
             "pubDate": "Tue, 24 Oct 2023 14:32:23 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "GameTags implements ITagSet\nCopy tags to sceneobjects and shapes",
-            "guid": "https://commits.facepunch.com/463216/",
-            "pubDate": "Tue, 24 Oct 2023 14:25:09 Z",
-            "title": "sbox-scenestaging"
         }
     ]
 }
