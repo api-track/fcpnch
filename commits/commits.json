@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed head information panel not displaying on the client",
+            "guid": "https://commits.facepunch.com/463279/",
+            "pubDate": "Wed, 25 Oct 2023 05:44:16 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fixed small trophy pooling issues",
             "guid": "https://commits.facepunch.com/463278/",
             "pubDate": "Wed, 25 Oct 2023 05:16:11 Z",
@@ -292,12 +298,6 @@
             "description": "Cherry picked 88688 => Fixed _ShadowMapTexture related errors in standard shader set",
             "guid": "https://commits.facepunch.com/463230/",
             "pubDate": "Tue, 24 Oct 2023 15:31:45 Z",
-            "title": "rust_reboot"
-        },
-        {
-            "description": "Cherry picked 88688 => Fixed _ShadowMapTexture related errors in standard shader set",
-            "guid": "https://commits.facepunch.com/463229/",
-            "pubDate": "Tue, 24 Oct 2023 15:31:07 Z",
             "title": "rust_reboot"
         }
     ]
