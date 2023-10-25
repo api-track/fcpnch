@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed some broken prefabs",
+            "guid": "https://commits.facepunch.com/463273/",
+            "pubDate": "Wed, 25 Oct 2023 03:45:08 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fixed some chicken ping issues",
             "guid": "https://commits.facepunch.com/463272/",
             "pubDate": "Wed, 25 Oct 2023 03:14:45 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463224/",
             "pubDate": "Tue, 24 Oct 2023 15:05:30 Z",
             "title": "sbox-scenestaging"
-        },
-        {
-            "description": "merge from mirror2023",
-            "guid": "https://commits.facepunch.com/463223/",
-            "pubDate": "Tue, 24 Oct 2023 15:03:25 Z",
-            "title": "rust_reboot"
         }
     ]
 }
