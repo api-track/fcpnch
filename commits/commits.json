@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "FPArms: camera is now handled separately on a different path & made additive so that simultaneous jump/land/airborne + attack anims don't stomp each other unpleasantly",
+            "guid": "https://commits.facepunch.com/463264/",
+            "pubDate": "Wed, 25 Oct 2023 01:10:15 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Citizen: move foot attachments into prefab",
             "guid": "https://commits.facepunch.com/463263/",
             "pubDate": "Wed, 25 Oct 2023 01:07:37 Z",
@@ -292,12 +298,6 @@
             "description": "Add Paint.MeasureText easy mode\nSpeed up PopupWidget fade in\nAdd ITag.SetFrom",
             "guid": "https://commits.facepunch.com/463215/",
             "pubDate": "Tue, 24 Oct 2023 14:23:41 Z",
-            "title": "sbox"
-        },
-        {
-            "description": "Remove unused\nCalculate predicted seconds to photons from now for tracked device poses\nUpdate HMD transform in various additional places, should help with latency\nFast path specifically for *hmd* pose retrieval, should help a tiny bit with latency\nVRSystem.Update refactor\nShorten GetPredictedSecondsToPhotonsFromNow to GetPredictedTime, use GetDeviceToAbsoluteTrackingPose for GetHmdMatrix",
-            "guid": "https://commits.facepunch.com/463214/",
-            "pubDate": "Tue, 24 Oct 2023 14:15:52 Z",
             "title": "sbox"
         }
     ]
