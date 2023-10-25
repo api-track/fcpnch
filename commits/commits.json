@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Disable right foot IK during kick\nMake kick first person (head movement snapping is very problematic to solve)",
+            "guid": "https://commits.facepunch.com/463262/",
+            "pubDate": "Wed, 25 Oct 2023 00:42:35 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Impl shape getscale, not really needed but our api has it",
             "guid": "https://commits.facepunch.com/463261/",
             "pubDate": "Tue, 24 Oct 2023 23:48:10 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463213/",
             "pubDate": "Tue, 24 Oct 2023 14:12:26 Z",
             "title": "rust_reboot"
-        },
-        {
-            "description": "Add GameObject.Tags\nSerialize Tags\nFix Transform lerping from World instead of local\nTag editor widget\nAllow setting the position of a physics body",
-            "guid": "https://commits.facepunch.com/463212/",
-            "pubDate": "Tue, 24 Oct 2023 13:51:27 Z",
-            "title": "sbox-scenestaging"
         }
     ]
 }
