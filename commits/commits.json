@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "A few extra tail prefab updates",
+            "guid": "https://commits.facepunch.com/463268/",
+            "pubDate": "Wed, 25 Oct 2023 01:27:15 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Merge from main",
             "guid": "https://commits.facepunch.com/463267/",
             "pubDate": "Wed, 25 Oct 2023 01:25:12 Z",
@@ -291,12 +297,6 @@
         {
             "description": "Fix struct default values from method parameters",
             "guid": "https://commits.facepunch.com/463219/",
-            "pubDate": "Tue, 24 Oct 2023 14:41:16 Z",
-            "title": "ActionGraphs"
-        },
-        {
-            "description": "Fix struct default values from method parameters",
-            "guid": "https://commits.facepunch.com/463218/",
             "pubDate": "Tue, 24 Oct 2023 14:41:16 Z",
             "title": "ActionGraphs"
         }
