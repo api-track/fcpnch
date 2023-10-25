@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fix head bags not dropping if inventory is full",
+            "guid": "https://commits.facepunch.com/463277/",
+            "pubDate": "Wed, 25 Oct 2023 04:37:49 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Fixed network group assigning not working and throwing group inside errors for tutorial entities\nAlso fixes tutorial trees getting added to the global broadcast list",
             "guid": "https://commits.facepunch.com/463276/",
             "pubDate": "Wed, 25 Oct 2023 04:27:10 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463228/",
             "pubDate": "Tue, 24 Oct 2023 15:29:38 Z",
             "title": "sbox"
-        },
-        {
-            "description": "▆▆▌▄▉▊▌ ▆▌▋▋█▉ ▋▌▍▉██▄/▄█▊█▉▆ ▆▌ ▌▇▆▊▍▇▊▅▋▄▌",
-            "guid": "https://commits.facepunch.com/463227/",
-            "pubDate": "Tue, 24 Oct 2023 15:22:35 Z",
-            "title": "rust_reboot"
         }
     ]
 }
