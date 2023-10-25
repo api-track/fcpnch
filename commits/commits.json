@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Merge from main",
+            "guid": "https://commits.facepunch.com/463267/",
+            "pubDate": "Wed, 25 Oct 2023 01:25:12 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "Train splines have changed again. Regenerating them.",
             "guid": "https://commits.facepunch.com/463266/",
             "pubDate": "Wed, 25 Oct 2023 01:22:33 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463218/",
             "pubDate": "Tue, 24 Oct 2023 14:41:16 Z",
             "title": "ActionGraphs"
-        },
-        {
-            "description": "Added new UI to tool.\nFurther encapsulation of methods.\nAdded processing class with preview ability.",
-            "guid": "https://commits.facepunch.com/463217/",
-            "pubDate": "Tue, 24 Oct 2023 14:32:23 Z",
-            "title": "rust_reboot"
         }
     ]
 }
