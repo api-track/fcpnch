@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Citizen: move foot attachments into prefab",
+            "guid": "https://commits.facepunch.com/463263/",
+            "pubDate": "Wed, 25 Oct 2023 01:07:37 Z",
+            "title": "sbox"
+        },
+        {
             "description": "Disable right foot IK during kick\nMake kick first person (head movement snapping is very problematic to solve)",
             "guid": "https://commits.facepunch.com/463262/",
             "pubDate": "Wed, 25 Oct 2023 00:42:35 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463214/",
             "pubDate": "Tue, 24 Oct 2023 14:15:52 Z",
             "title": "sbox"
-        },
-        {
-            "description": "Added scroll views to passes.\nTOD now only affects the pass you are interacting with.\nTOD & scroll view amount are now saved to each pass object.",
-            "guid": "https://commits.facepunch.com/463213/",
-            "pubDate": "Tue, 24 Oct 2023 14:12:26 Z",
-            "title": "rust_reboot"
         }
     ]
 }
