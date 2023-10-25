@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "description": "Fixed incorrect deploy volume on wanted poster, adjust bounds on skin 2+3",
+            "guid": "https://commits.facepunch.com/463265/",
+            "pubDate": "Wed, 25 Oct 2023 01:10:58 Z",
+            "title": "rust_reboot"
+        },
+        {
             "description": "FPArms: camera is now handled separately on a different path & made additive so that simultaneous jump/land/airborne + attack anims don't stomp each other unpleasantly",
             "guid": "https://commits.facepunch.com/463264/",
             "pubDate": "Wed, 25 Oct 2023 01:10:15 Z",
@@ -293,12 +299,6 @@
             "guid": "https://commits.facepunch.com/463216/",
             "pubDate": "Tue, 24 Oct 2023 14:25:09 Z",
             "title": "sbox-scenestaging"
-        },
-        {
-            "description": "Add Paint.MeasureText easy mode\nSpeed up PopupWidget fade in\nAdd ITag.SetFrom",
-            "guid": "https://commits.facepunch.com/463215/",
-            "pubDate": "Tue, 24 Oct 2023 14:23:41 Z",
-            "title": "sbox"
         }
     ]
 }
